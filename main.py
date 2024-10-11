@@ -25,7 +25,8 @@ if __name__ == "__main__":
         success = 1 if similarity > 0.85 else 0
         card['test_times'] += card['test_times'] + 1
         card['success_times'] += card['success_times'] + success
-        print(f"R: {original_content}({similarity * 100:.2f}%)")
+        print(
+            f"R: {original_content}{card['romaji_content']}({similarity * 100:.2f}%)")
         print()
 
         review_date = datetime.now()

@@ -1,12 +1,14 @@
 [
     {
+        "id": 10001,
         "type": "sentence",
-        "original_content": "いただきます。",
+        "original_content": "士大夫撒否随时手动",
         "romaji_content": "Itadakimasu.",
         "translated_content": "开始吃了.",
         "explanation": "开始吃东西前的常用语, 表示对做饭人等的感谢."
     },
     {
+        "id": 10002,
         "type": "sentence",
         "original_content": "静岡へようこそう。",
         "romaji_content": "Shizuoka e yookoso.",

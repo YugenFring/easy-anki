@@ -29,19 +29,28 @@ class Cards:
         self.cursor.execute(create_sql)
         self.conn.commit()
 
-    def insert_cards(self, cards):
+    def upsert_cards(self, cards):
         current_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         insert_sql = f"""
-            INSERT INTO cards (
-                type, original_content, romaji_content, translated_content,
+            INSERT OR IGNORE INTO cards (
+                id, type, original_content, romaji_content, translated_content,
                 explanation, test_times, success_times, last_review_date,
                 memory_strength, ease_factor, next_review_date, inserted_date
                 )
-            VALUES (?, ?, ?, ?, ?, 0, 0, '{current_date}', 1, 1.3,
-            '{current_date}', '{current_date}');
+            VALUES (:id, :type, :original_content, :romaji_content, :translated_content,
+                :explanation, 0, 0, '{current_date}', 1, 1.3, '{current_date}', '{current_date}');
             """
         self.cursor.executemany(insert_sql, cards)
+
+        update_sql = f"""
+            UPDATE cards SET type=:type, original_content=:original_content,
+            romaji_content=:romaji_content, translated_content=:translated_content,
+            explanation=:explanation
+            WHERE id=:id;
+            """
+        self.cursor.executemany(update_sql, cards)
+
         self.conn.commit()
 
     def get_random_card(self):

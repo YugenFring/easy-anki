@@ -10,4 +10,4 @@ if __name__ == "__main__":
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
         data_list = json_loader(file_path)
-        cards_db.insert_cards(data_list)
+        cards_db.upsert_cards(data_list)
