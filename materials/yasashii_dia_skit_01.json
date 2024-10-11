@@ -1,0 +1,194 @@
+[
+    {
+        "id": 14670723720001,
+        "type": "phrase",
+        "original_content": "すみません。",
+        "romaji_content": "Sumimasen.",
+        "translated_content": "对不起, 打扰一下.",
+        "explanation": "问路的时候会使用到的开场白."
+    },
+    {
+        "id": 14670723720002,
+        "type": "sentence",
+        "original_content": "はるさんハウスはどこですか。",
+        "romaji_content": "Haru-san-Hause wa doko desu ka.",
+        "translated_content": "春的房屋(house)哪里在.",
+        "explanation": "询问某个建筑的地点在哪里."
+    },
+    {
+        "id": 14670723720003,
+        "type": "sentence",
+        "original_content": "あれ？ぼくたちのうちだよね。",
+        "romaji_content": "Are? Bokutachi13 no uchi2 da yo ne.",
+        "translated_content": "咦? 我们的住所是哟呢.",
+        "explanation": "惊讶. 这是我们所居住在的地方, 并暗含请求确认之意."
+    },
+    {
+        "id": 14670723720004,
+        "type": "sentence",
+        "original_content": "すぐ近くです。",
+        "romaji_content": "Sugu1 chikaku2 desu.",
+        "translated_content": "就附近在.",
+        "explanation": "表示对象的位置."
+    },
+    {
+        "id": 14670723720005,
+        "type": "sentence",
+        "original_content": "一緒に行きましょう。",
+        "romaji_content": "Issho ni ikimashoo.",
+        "translated_content": "一起地去吧.",
+        "explanation": "提议一起做."
+    },
+    {
+        "id": 14670723720006,
+        "type": "sentence",
+        "original_content": "こっちだよ。",
+        "romaji_content": "Kocchi3 da yo.",
+        "translated_content": "这边是哦.",
+        "explanation": "说明方向."
+    },
+    {
+        "id": 14670723720007,
+        "type": "sentence",
+        "original_content": "はい。ありがとうございます。",
+        "romaji_content": "",
+        "translated_content": "好的. 谢谢是.",
+        "explanation": "谢谢的郑重说法."
+    },
+    {
+        "id": 14670723720008,
+        "type": "sentence",
+        "original_content": "トイレはどこですか。",
+        "romaji_content": "Toire wa doko desu ka.",
+        "translated_content": "厕所(toilet)哪里是.",
+        "explanation": "询问对象的位置."
+    },
+    {
+        "id": 14670723720009,
+        "type": "sentence",
+        "original_content": "あそこです。",
+        "romaji_content": "Asoko3 desu.",
+        "translated_content": "那里是.",
+        "explanation": "说明距离二者较远的位置."
+    },
+    {
+        "id": 14670723720010,
+        "type": "word",
+        "original_content": "駅",
+        "romaji_content": "Eki1.",
+        "translated_content": "车站.",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720011,
+        "type": "word",
+        "original_content": "コンビニ",
+        "romaji_content": "Konbini.",
+        "translated_content": "商店(convenience store).",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720012,
+        "type": "word",
+        "original_content": "ATM",
+        "romaji_content": "ee-tii-emu.",
+        "translated_content": "ATM",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720013,
+        "type": "word",
+        "original_content": "ハウス",
+        "romaji_content": "Hause.",
+        "translated_content": "房屋(house)",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720014,
+        "type": "word",
+        "original_content": "どこ",
+        "romaji_content": "Doko.",
+        "translated_content": "哪里",
+        "explanation": "pron"
+    },
+    {
+        "id": 14670723720015,
+        "type": "word",
+        "original_content": "あれ",
+        "romaji_content": "Are.",
+        "translated_content": "惊讶",
+        "explanation": "interject"
+    },
+    {
+        "id": 14670723720016,
+        "type": "word",
+        "original_content": "ぼくたち",
+        "romaji_content": "Bokutachi13.",
+        "translated_content": "我们的(男性用)",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720017,
+        "type": "word",
+        "original_content": "うち",
+        "romaji_content": "uchi2.",
+        "translated_content": "住处, 住所",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720018,
+        "type": "word",
+        "original_content": "すぐ",
+        "romaji_content": "Sugu1.",
+        "translated_content": "就",
+        "explanation": "adv"
+    },
+    {
+        "id": 14670723720019,
+        "type": "word",
+        "original_content": "近く",
+        "romaji_content": "chikaku2.",
+        "translated_content": "附近",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720020,
+        "type": "word",
+        "original_content": "一緒に",
+        "romaji_content": "Issho ni.",
+        "translated_content": "一起地",
+        "explanation": "adv"
+    },
+    {
+        "id": 14670723720021,
+        "type": "word",
+        "original_content": "行きましょう",
+        "romaji_content": "ikimashoo",
+        "translated_content": "'行く'的礼貌提议形",
+        "explanation": "v"
+    },
+    {
+        "id": 14670723720022,
+        "type": "word",
+        "original_content": "こっち",
+        "romaji_content": "Kocchi3",
+        "translated_content": "'这边",
+        "explanation": "pron"
+    },
+    {
+        "id": 14670723720023,
+        "type": "word",
+        "original_content": "トイレ",
+        "romaji_content": "Toire",
+        "translated_content": "厕所, 洗手间, toilet",
+        "explanation": "n"
+    },
+    {
+        "id": 14670723720024,
+        "type": "word",
+        "original_content": "あそこ",
+        "romaji_content": "Asoko3",
+        "translated_content": "那里",
+        "explanation": "pron, 距离二者较远"
+    }
+]

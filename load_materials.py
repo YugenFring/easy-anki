@@ -6,7 +6,7 @@ import os
 
 if __name__ == "__main__":
     cards_db = Cards()
-    directory = './store/cache/'
+    directory = './materials/'
     for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
         data_list = json_loader(file_path)
