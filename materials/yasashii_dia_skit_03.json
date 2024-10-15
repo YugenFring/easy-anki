@@ -1,0 +1,242 @@
+[
+    {
+        "id": 12791175990001,
+        "type": "sentence",
+        "original_content": "タムさん、たくさん食べてください。",
+        "romaji_content": "Harusan, takusan tabete kudasai",
+        "translated_content": "タムsan, 大量多多地吃请.",
+        "explanation": "让sb多吃东西."
+    },
+    {
+        "id": 12791175990002,
+        "type": "sentence",
+        "original_content": "はい",
+        "romaji_content": "Hai",
+        "translated_content": "好的.",
+        "explanation": "应答别人"
+    },
+    {
+        "id": 12791175990003,
+        "type": "sentence",
+        "original_content": "ベトナムから来ました。",
+        "romaji_content": "Betonamu kara kimashita1.",
+        "translated_content": "越南从来了.",
+        "explanation": "表明从某个地方来的."
+    },
+    {
+        "id": 12791175990004,
+        "type": "sentence",
+        "original_content": "中国からです。",
+        "romaji_content": "Chuugoku4 kara desu.",
+        "translated_content": "中国来是.",
+        "explanation": "表明是来自某个地方."
+    },
+    {
+        "id": 12791175990005,
+        "type": "sentence",
+        "original_content": "ぼくは海斗。",
+        "romaji_content": "Boku wa Kaito.",
+        "translated_content": "我, 海斗.",
+        "explanation": "男性介绍自己名字."
+    },
+    {
+        "id": 12791175990006,
+        "type": "sentence",
+        "original_content": "わたくし、大家のはるです。",
+        "romaji_content": "Watakushi, ooya1 no Haru desu.",
+        "translated_content": "我(老妇)啊, (具有)房东身份的春是.",
+        "explanation": "长辈介绍自己身份."
+    },
+    {
+        "id": 12791175990007,
+        "type": "sentence",
+        "original_content": "はるさんは何でも知っています。",
+        "romaji_content": "Haru-san wa nandemo41 shitte imasu.",
+        "translated_content": "春san, 任何一切知道.",
+        "explanation": "说某人知道很多东西."
+    },
+    {
+        "id": 12791175990008,
+        "type": "sentence",
+        "original_content": "そうですか。",
+        "romaji_content": "Soo desu ka.",
+        "translated_content": "这样吗.",
+        "explanation": "对消息的确认, 略有惊讶意."
+    },
+    {
+        "id": 12791175990009,
+        "type": "sentence",
+        "original_content": "どちらからですか。",
+        "romaji_content": "Dochira1 kara desu ka..",
+        "translated_content": "哪里来自是.",
+        "explanation": "询问某人是来自来自."
+    },
+    {
+        "id": 12791175990010,
+        "type": "word",
+        "original_content": "たくさん",
+        "romaji_content": "Takusan",
+        "translated_content": "大量地, 多多地",
+        "explanation": "adv"
+    },
+    {
+        "id": 12791175990011,
+        "type": "word",
+        "original_content": "食べて",
+        "romaji_content": "Tabete",
+        "translated_content": "'食べる'的te形",
+        "explanation": "v"
+    },
+    {
+        "id": 12791175990012,
+        "type": "phrase",
+        "original_content": "ください",
+        "romaji_content": "Kudasai",
+        "translated_content": "请",
+        "explanation": "接在te形后, 表示请做sth"
+    },
+    {
+        "id": 12791175990013,
+        "type": "word",
+        "original_content": "ベトナム",
+        "romaji_content": "Betonamu ",
+        "translated_content": "越南, Vietnam",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990014,
+        "type": "word",
+        "original_content": "から",
+        "romaji_content": "kara",
+        "translated_content": "来自, 从",
+        "explanation": "particle"
+    },
+    {
+        "id": 12791175990015,
+        "type": "word",
+        "original_content": "来ました",
+        "romaji_content": "kimashita1",
+        "translated_content": "'来る'的礼貌过去形",
+        "explanation": "kuru intransitive auxiliary verb"
+    },
+    {
+        "id": 12791175990016,
+        "type": "word",
+        "original_content": "来る",
+        "romaji_content": "kuru1",
+        "translated_content": "来",
+        "explanation": "kuru intransitive auxiliary verb"
+    },
+    {
+        "id": 12791175990017,
+        "type": "word",
+        "original_content": "中国",
+        "romaji_content": "Chuugoku4",
+        "translated_content": "中国",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990018,
+        "type": "word",
+        "original_content": "写真家",
+        "romaji_content": "Shashinka4",
+        "translated_content": "摄影家",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990019,
+        "type": "word",
+        "original_content": "ぼく",
+        "romaji_content": "Boku",
+        "translated_content": "我",
+        "explanation": "pron, 男性用"
+    },
+    {
+        "id": 12791175990020,
+        "type": "word",
+        "original_content": "海斗",
+        "romaji_content": "Kaito",
+        "translated_content": "海斗",
+        "explanation": "n, 人名"
+    },
+    {
+        "id": 12791175990021,
+        "type": "word",
+        "original_content": "わたくし",
+        "romaji_content": "Watakushi",
+        "translated_content": "我",
+        "explanation": "pron, 老长辈用"
+    },
+    {
+        "id": 12791175990022,
+        "type": "word",
+        "original_content": "何でも",
+        "romaji_content": "nandemo41",
+        "translated_content": "任何, 一切",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990023,
+        "type": "word",
+        "original_content": "知っています",
+        "romaji_content": "shitte imasu",
+        "translated_content": "'知る'的礼貌进行时",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 12791175990024,
+        "type": "word",
+        "original_content": "知っています",
+        "romaji_content": "shitte imasu",
+        "translated_content": "'知る'的礼貌进行时",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 12791175990025,
+        "type": "word",
+        "original_content": "知る",
+        "romaji_content": "shiru2",
+        "translated_content": "知晓, 知道, 了解",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 12791175990026,
+        "type": "word",
+        "original_content": "どちら",
+        "romaji_content": "Dochira1",
+        "translated_content": "哪里",
+        "explanation": "pron, 礼貌形"
+    },
+    {
+        "id": 12791175990027,
+        "type": "word",
+        "original_content": "アメリカ",
+        "romaji_content": "Amerika",
+        "translated_content": "美国",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990028,
+        "type": "word",
+        "original_content": "タイ",
+        "romaji_content": "Tai",
+        "translated_content": "泰国, Thailand",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990029,
+        "type": "word",
+        "original_content": "ブラジル",
+        "romaji_content": "Burajiru",
+        "translated_content": "巴西, Brazil",
+        "explanation": "n"
+    },
+    {
+        "id": 12791175990030,
+        "type": "word",
+        "original_content": "ロシア",
+        "romaji_content": "Roshia",
+        "translated_content": "俄罗斯, Russia",
+        "explanation": "n"
+    }
+]

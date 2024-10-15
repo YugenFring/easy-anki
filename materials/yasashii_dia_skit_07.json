@@ -1,0 +1,274 @@
+[
+    {
+        "id": 12117703920001,
+        "type": "sentence",
+        "original_content": "隣、いい？",
+        "romaji_content": "Tonari3, ii?",
+        "translated_content": "旁边, 可以(坐)吗?",
+        "explanation": "体会这种极简的表达方式."
+    },
+    {
+        "id": 12117703920002,
+        "type": "phrase",
+        "original_content": "ありがとう。",
+        "romaji_content": "Arigatoo",
+        "translated_content": "谢谢",
+        "explanation": "普通表达"
+    },
+    {
+        "id": 12117703920003,
+        "type": "sentence",
+        "original_content": "留学生なの？",
+        "romaji_content": "Ryuugakusee3 na no?",
+        "translated_content": "留学生是吗?",
+        "explanation": "较为随意的表达方式."
+    },
+    {
+        "id": 12117703920004,
+        "type": "sentence",
+        "original_content": "よくわかりません。",
+        "romaji_content": "Yoku2 wakarimasen.",
+        "translated_content": "十分不明白.",
+        "explanation": "表达没有听清楚明白."
+    },
+    {
+        "id": 12117703920005,
+        "type": "sentence",
+        "original_content": "ゆっくり話してください。",
+        "romaji_content": "Yukkuri hanashite2 kudasai.",
+        "translated_content": "慢慢地讲请.",
+        "explanation": "请对方讲慢一点."
+    },
+    {
+        "id": 12117703920006,
+        "type": "sentence",
+        "original_content": "あ、ごめん、ごめん。",
+        "romaji_content": "A, gomen3, gomen.",
+        "translated_content": "啊, 抱歉, 抱歉.",
+        "explanation": "较为随意的表达抱歉."
+    },
+    {
+        "id": 12117703920007,
+        "type": "sentence",
+        "original_content": "あなたは留学生ですか。",
+        "romaji_content": "Anata wa ryuugakusee desu ka.",
+        "translated_content": "你留学生是吗.",
+        "explanation": "询问对方的身份."
+    },
+    {
+        "id": 12117703920008,
+        "type": "sentence",
+        "original_content": "よろしくね",
+        "romaji_content": "Yoroshiku ne.",
+        "translated_content": "多多关照呢.",
+        "explanation": "较为随意的表达."
+    },
+    {
+        "id": 12117703920009,
+        "type": "sentence",
+        "original_content": "もう一度言ってください。",
+        "romaji_content": "Moo ichi-do3 itte2 kudasai.",
+        "translated_content": "再一次说请.",
+        "explanation": "请对方再说一次."
+    },
+    {
+        "id": 12117703920010,
+        "type": "sentence",
+        "original_content": "英語で言ってください。",
+        "romaji_content": "Eego3 de itte kudasai.",
+        "translated_content": "英语通过说请.",
+        "explanation": "请对方通过某种语言说."
+    },
+    {
+        "id": 12117703920011,
+        "type": "sentence",
+        "original_content": "ローマ字で書いてください。",
+        "romaji_content": "Roomaji de kaite1 kudasai.",
+        "translated_content": "罗马字通过书写请.",
+        "explanation": "请对方通过某种语言写."
+    },
+    {
+        "id": 12117703920012,
+        "type": "sentence",
+        "original_content": "読み方を教えてください。",
+        "romaji_content": "Yomikata34 o oshiete4 kudasai.",
+        "translated_content": "读音教学请.",
+        "explanation": "请对方教某事."
+    },
+    {
+        "id": 12117703920013,
+        "type": "word",
+        "original_content": "隣",
+        "romaji_content": "Tonari3.",
+        "translated_content": "旁边",
+        "explanation": "n."
+    },
+    {
+        "id": 12117703920014,
+        "type": "word",
+        "original_content": "留学生",
+        "romaji_content": "Ryuugakusee3",
+        "translated_content": "留学生",
+        "explanation": "n."
+    },
+    {
+        "id": 12117703920015,
+        "type": "word",
+        "original_content": "なの",
+        "romaji_content": "na no",
+        "translated_content": "是吗",
+        "explanation": "较为随意的表达."
+    },
+    {
+        "id": 12117703920016,
+        "type": "word",
+        "original_content": "よく",
+        "romaji_content": "Yoku2",
+        "translated_content": "十分",
+        "explanation": "adv."
+    },
+    {
+        "id": 12117703920017,
+        "type": "word",
+        "original_content": "ゆっくり",
+        "romaji_content": "Yukkuri",
+        "translated_content": "慢慢地",
+        "explanation": "adv."
+    },
+    {
+        "id": 12117703920018,
+        "type": "word",
+        "original_content": "話す",
+        "romaji_content": "hanasu2",
+        "translated_content": "讲",
+        "explanation": "godan transitive verb, 强调动作本身, 对话的过程"
+    },
+    {
+        "id": 12117703920019,
+        "type": "word",
+        "original_content": "話して",
+        "romaji_content": "hanashite2",
+        "translated_content": "说",
+        "explanation": "'話す'的te形"
+    },
+    {
+        "id": 12117703920020,
+        "type": "word",
+        "original_content": "ごめん",
+        "romaji_content": "gomen3",
+        "translated_content": "抱歉, 对不起",
+        "explanation": "interject"
+    },
+    {
+        "id": 12117703920021,
+        "type": "word",
+        "original_content": "あなた",
+        "romaji_content": "Anata",
+        "translated_content": "你",
+        "explanation": "n, 礼貌的表达"
+    },
+    {
+        "id": 12117703920022,
+        "type": "word",
+        "original_content": "あやか",
+        "romaji_content": "Ayaka",
+        "translated_content": "绫香",
+        "explanation": "n, 人名"
+    },
+    {
+        "id": 12117703920023,
+        "type": "word",
+        "original_content": "あやか",
+        "romaji_content": "Ayaka",
+        "translated_content": "绫香",
+        "explanation": "n, 人名"
+    },
+    {
+        "id": 12117703920024,
+        "type": "word",
+        "original_content": "もう",
+        "romaji_content": "Moo",
+        "translated_content": "再",
+        "explanation": "adv"
+    },
+    {
+        "id": 12117703920025,
+        "type": "word",
+        "original_content": "一度",
+        "romaji_content": "ichi-do3",
+        "translated_content": "一次",
+        "explanation": "n"
+    },
+    {
+        "id": 12117703920026,
+        "type": "word",
+        "original_content": "言って",
+        "romaji_content": "itte2",
+        "translated_content": "说",
+        "explanation": "'言う'的te形"
+    },
+    {
+        "id": 12117703920027,
+        "type": "word",
+        "original_content": "言う",
+        "romaji_content": "iu2",
+        "translated_content": "说",
+        "explanation": "godan verb, 偏向引用内容"
+    },
+    {
+        "id": 12117703920028,
+        "type": "word",
+        "original_content": "英語",
+        "romaji_content": "Eego3",
+        "translated_content": "英语",
+        "explanation": "n"
+    },
+    {
+        "id": 12117703920029,
+        "type": "word",
+        "original_content": "ローマ字",
+        "romaji_content": "Roomaji",
+        "translated_content": "罗马字",
+        "explanation": "n"
+    },
+    {
+        "id": 12117703920030,
+        "type": "word",
+        "original_content": "書いて",
+        "romaji_content": "kaite1",
+        "translated_content": "'書く'的te形",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 12117703920031,
+        "type": "word",
+        "original_content": "書く",
+        "romaji_content": "kaku1",
+        "translated_content": "书写",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 12117703920032,
+        "type": "word",
+        "original_content": "読み方",
+        "romaji_content": "Yomikata34",
+        "translated_content": "读音",
+        "explanation": "n"
+    },
+    {
+        "id": 12117703920033,
+        "type": "word",
+        "original_content": "教えて",
+        "romaji_content": "oshiete4",
+        "translated_content": "教学",
+        "explanation": "'教える'的te形"
+    },
+    {
+        "id": 12117703920034,
+        "type": "word",
+        "original_content": "教える",
+        "romaji_content": "oshieru4",
+        "translated_content": "教学",
+        "explanation": "ichidan transitive verb"
+    }
+]

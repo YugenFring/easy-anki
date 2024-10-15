@@ -1,0 +1,274 @@
+[
+    {
+        "id": 12434122890001,
+        "type": "sentence",
+        "original_content": "日本には慣れましたか。",
+        "romaji_content": "Nihon ni wa naremashita2 ka.",
+        "translated_content": "日本对习惯了吗?",
+        "explanation": "询问是否习惯."
+    },
+    {
+        "id": 12434122890002,
+        "type": "sentence",
+        "original_content": "日本でどんなことがしたいですか。",
+        "romaji_content": "Nihon de donna koto ga shitai desu ka.",
+        "translated_content": "日本在什么事情想做?",
+        "explanation": "询问想干什么."
+    },
+    {
+        "id": 12434122890003,
+        "type": "sentence",
+        "original_content": "ええと、雪が見たいです。",
+        "romaji_content": "Eeto, yuki2 ga mitai desu.",
+        "translated_content": "嗯… I want to see the snow.",
+        "explanation": "思考后说明想干的sth."
+    },
+    {
+        "id": 12434122890004,
+        "type": "sentence",
+        "original_content": "北海道に行きたいです。",
+        "romaji_content": "Hokkaidoo3 ni ikitai desu.",
+        "translated_content": "I want to go to Hokkaido.",
+        "explanation": "说明想去哪."
+    },
+    {
+        "id": 12434122890005,
+        "type": "sentence",
+        "original_content": "あと・・・友達に会いたいです。",
+        "romaji_content": "Ato…tomodachi4 ni aitai desu.",
+        "translated_content": "Also…I want to see my friend.",
+        "explanation": "说明想见sb."
+    },
+    {
+        "id": 12434122890006,
+        "type": "sentence",
+        "original_content": "おや？",
+        "romaji_content": "Oya?",
+        "translated_content": "哦?",
+        "explanation": "疑问? 感觉是老人用的."
+    },
+    {
+        "id": 12434122890007,
+        "type": "sentence",
+        "original_content": "大丈夫？顔が赤いよ。",
+        "romaji_content": "Daijoobu? Kao2 ga akai3 yo.",
+        "translated_content": "没事的吧? 你的脸红了.",
+        "explanation": "问候后说明."
+    },
+    {
+        "id": 12434122890008,
+        "type": "sentence",
+        "original_content": "日本で何がしたいですか。",
+        "romaji_content": "Nihon de nani1 ga shitai desu ka.",
+        "translated_content": "What do you want to do in Japan.",
+        "explanation": "询问想干什么."
+    },
+    {
+        "id": 12434122890009,
+        "type": "sentence",
+        "original_content": "ラーメンが食べたいです。",
+        "romaji_content": "Raamen1 ga tabetai desu.",
+        "translated_content": "I want to eat ramen(拉面).",
+        "explanation": "说明想吃什么."
+    },
+    {
+        "id": 12434122890010,
+        "type": "sentence",
+        "original_content": "金閣寺に行きたいです。",
+        "romaji_content": "Kinkakuji2 ni ikitai desu.",
+        "translated_content": "I want to go to Kinkakuji Temple.",
+        "explanation": "说明想去哪."
+    },
+    {
+        "id": 12434122890011,
+        "type": "sentence",
+        "original_content": "浴衣が買いたいです。",
+        "romaji_content": "Yukata3 ga kaitai2 desu.",
+        "translated_content": "I want to buy summer kimono(浴衣).",
+        "explanation": "说明想买sth."
+    },
+    {
+        "id": 12434122890012,
+        "type": "sentence",
+        "original_content": "お花見がしたいです。",
+        "romaji_content": "Ohanami2 ga shitai desu.",
+        "translated_content": "赏樱花想(做).",
+        "explanation": "说明想干sth."
+    },
+    {
+        "id": 12434122890013,
+        "type": "word",
+        "original_content": "慣れました",
+        "romaji_content": "naremashita2",
+        "translated_content": "'慣れる'的礼貌过去形",
+        "explanation": "ichidan intransitive verb."
+    },
+    {
+        "id": 12434122890014,
+        "type": "word",
+        "original_content": "慣れる",
+        "romaji_content": "nareru2",
+        "translated_content": "习惯",
+        "explanation": "ichidan intransitive verb."
+    },
+    {
+        "id": 12434122890015,
+        "type": "word",
+        "original_content": "どんな",
+        "romaji_content": "Donna",
+        "translated_content": "哪种",
+        "explanation": "pron"
+    },
+    {
+        "id": 12434122890016,
+        "type": "word",
+        "original_content": "こと",
+        "romaji_content": "Koto",
+        "translated_content": "事情, 事物",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890017,
+        "type": "word",
+        "original_content": "雪",
+        "romaji_content": "yuki2",
+        "translated_content": "雪",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890018,
+        "type": "word",
+        "original_content": "北海道",
+        "romaji_content": "Hokkaidoo3",
+        "translated_content": "北海道",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890019,
+        "type": "word",
+        "original_content": "見たい",
+        "romaji_content": "mitai1",
+        "translated_content": "'見る'的tai形",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 12434122890020,
+        "type": "word",
+        "original_content": "見る",
+        "romaji_content": "miru1",
+        "translated_content": "看",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 12434122890021,
+        "type": "word",
+        "original_content": "行きたい",
+        "romaji_content": "ikitai2",
+        "translated_content": "'行く'的tai形",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 12434122890022,
+        "type": "word",
+        "original_content": "行く",
+        "romaji_content": "iku2",
+        "translated_content": "去",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 12434122890023,
+        "type": "word",
+        "original_content": "あと",
+        "romaji_content": "Ato1",
+        "translated_content": "还有, 此外",
+        "explanation": "conjunc"
+    },
+    {
+        "id": 12434122890024,
+        "type": "word",
+        "original_content": "友達",
+        "romaji_content": "tomodachi4",
+        "translated_content": "朋友",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890025,
+        "type": "word",
+        "original_content": "会いたい",
+        "romaji_content": "aitai1",
+        "translated_content": "会见, 见面, 遇见",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 12434122890026,
+        "type": "word",
+        "original_content": "会う",
+        "romaji_content": "au1",
+        "translated_content": "会见, 见面, 遇见",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 12434122890027,
+        "type": "word",
+        "original_content": "顔",
+        "romaji_content": "Kao2",
+        "translated_content": "脸",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890028,
+        "type": "word",
+        "original_content": "赤い",
+        "romaji_content": "akai3",
+        "translated_content": "红的",
+        "explanation": "adj"
+    },
+    {
+        "id": 12434122890029,
+        "type": "word",
+        "original_content": "ラーメン",
+        "romaji_content": "Raamen1",
+        "translated_content": "拉面",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890030,
+        "type": "word",
+        "original_content": "金閣寺",
+        "romaji_content": "Kinkakuji2",
+        "translated_content": "金阁寺",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890031,
+        "type": "word",
+        "original_content": "浴衣",
+        "romaji_content": "Yukata3",
+        "translated_content": "浴衣",
+        "explanation": "n"
+    },
+    {
+        "id": 12434122890032,
+        "type": "word",
+        "original_content": "買う",
+        "romaji_content": "kau2",
+        "translated_content": "购买",
+        "explanation": "godan tansitive verb"
+    },
+    {
+        "id": 12434122890033,
+        "type": "word",
+        "original_content": "買いたい",
+        "romaji_content": "kaitai2",
+        "translated_content": "'買う'的tai形",
+        "explanation": "godan tansitive verb"
+    },
+    {
+        "id": 12434122890034,
+        "type": "word",
+        "original_content": "お花見",
+        "romaji_content": "Ohanami2",
+        "translated_content": "赏樱花",
+        "explanation": "n"
+    }
+]

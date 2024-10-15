@@ -1,0 +1,290 @@
+[
+    {
+        "id": 13867705220001,
+        "type": "sentence",
+        "original_content": "たくさんありますね。",
+        "romaji_content": "Takusan3 arimasu ne.",
+        "translated_content": "大量地存在有啊.",
+        "explanation": "看到有很多东西"
+    },
+    {
+        "id": 13867705220002,
+        "type": "sentence",
+        "original_content": "すごいでしょう?",
+        "romaji_content": "Sugoi2 deshoo?",
+        "translated_content": "很棒对吧",
+        "explanation": "较为随意地反问"
+    },
+    {
+        "id": 13867705220003,
+        "type": "sentence",
+        "original_content": "これはサラサラヘア。",
+        "romaji_content": "Kore2 wa sarasara hea.",
+        "translated_content": "这是'柔顺头发'(品牌名)",
+        "explanation": "说明"
+    },
+    {
+        "id": 13867705220004,
+        "type": "sentence",
+        "original_content": "これはツヤが出るタイプ。",
+        "romaji_content": "Kore wa tsuya2 ga deru1 taipu.",
+        "translated_content": "这款光泽带来形成(的)type.",
+        "explanation": "说明sth的功效."
+    },
+    {
+        "id": 13867705220005,
+        "type": "sentence",
+        "original_content": "へえ、いくらですか。",
+        "romaji_content": "Hee, ikura1 desu ka.",
+        "translated_content": "欸, 多少钱是.",
+        "explanation": "惊讶新奇后询问价格"
+    },
+    {
+        "id": 13867705220006,
+        "type": "sentence",
+        "original_content": "セールって書いてある。きいてみよう。",
+        "romaji_content": "Seeru tte kaite aru. Kiite miyoo.",
+        "translated_content": "sale(促销)(主语标记)写着有. 问问尝试去吧.",
+        "explanation": "单词标记+动词连用形"
+    },
+    {
+        "id": 13867705220007,
+        "type": "sentence",
+        "original_content": "このドライヤーはいくらですか。",
+        "romaji_content": "Kono2 doraiyaa wa ikura1 desu ka.",
+        "translated_content": "这个dryer(吹风机)多少钱是.",
+        "explanation": "询问sth价格."
+    },
+    {
+        "id": 13867705220008,
+        "type": "sentence",
+        "original_content": "9,900円です。",
+        "romaji_content": "Kyuu1-sen2-kyuu-hyaku2-en1 desu.",
+        "translated_content": "9,900日元是",
+        "explanation": "价格数字"
+    },
+    {
+        "id": 13867705220009,
+        "type": "sentence",
+        "original_content": "え！高すぎます。",
+        "romaji_content": "E! Takasugimasu.",
+        "translated_content": "欸! 太高太贵了.",
+        "explanation": "惊讶后表示价格贵."
+    },
+    {
+        "id": 13867705220010,
+        "type": "sentence",
+        "original_content": "この炊飯器はいくらですか。",
+        "romaji_content": "Kono suihan-ki3 wa ikura desu ka.",
+        "translated_content": "这个电饭煲多少钱是.",
+        "explanation": "询问sth价格."
+    },
+    {
+        "id": 13867705220011,
+        "type": "sentence",
+        "original_content": "8,700円です。",
+        "romaji_content": "Hassen-nana-hyaku-en desu.",
+        "translated_content": "8700日元是.",
+        "explanation": "价格数字."
+    },
+    {
+        "id": 13867705220012,
+        "type": "sentence",
+        "original_content": "あのイヤホンはいくらですか。",
+        "romaji_content": "Ano2 iyahon wa ikura desu ka.",
+        "translated_content": "那个(远离双方)earphone多少钱是.",
+        "explanation": "询问sth价格."
+    },
+    {
+        "id": 13867705220013,
+        "type": "sentence",
+        "original_content": "この茶碗はいくらですか。",
+        "romaji_content": "Kono chawan3 wa ikura desu ka.",
+        "translated_content": "这个碗(陶瓷制作的)多少钱是.",
+        "explanation": "询问sth价格."
+    },
+    {
+        "id": 13867705220014,
+        "type": "sentence",
+        "original_content": "その絵はいくらですか。",
+        "romaji_content": "Sono e1 wa ikura desu ka.",
+        "translated_content": "那(靠近对方)幅画多少钱是.",
+        "explanation": "询问sth价格."
+    },
+    {
+        "id": 13867705220015,
+        "type": "word",
+        "original_content": "たくさん",
+        "romaji_content": "Takusan3",
+        "translated_content": "大量地.",
+        "explanation": "adv"
+    },
+    {
+        "id": 13867705220016,
+        "type": "word",
+        "original_content": "すごい",
+        "romaji_content": "Sugoi2",
+        "translated_content": "很棒的",
+        "explanation": "adj"
+    },
+    {
+        "id": 13867705220017,
+        "type": "word",
+        "original_content": "サラサラ",
+        "romaji_content": "sarasara",
+        "translated_content": "柔顺光滑",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220018,
+        "type": "word",
+        "original_content": "サラサラ",
+        "romaji_content": "sarasara",
+        "translated_content": "柔顺光滑",
+        "explanation": "n, 形容头发"
+    },
+    {
+        "id": 13867705220019,
+        "type": "word",
+        "original_content": "ヘア",
+        "romaji_content": "hea",
+        "translated_content": "hair, 头发",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220020,
+        "type": "word",
+        "original_content": "ツヤ",
+        "romaji_content": "tsuya2",
+        "translated_content": "光泽",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220021,
+        "type": "word",
+        "original_content": "出る",
+        "romaji_content": "deru1",
+        "translated_content": "形成",
+        "explanation": "ichidan intransitive verb"
+    },
+    {
+        "id": 13867705220022,
+        "type": "word",
+        "original_content": "タイプ",
+        "romaji_content": "taipu",
+        "translated_content": "type, 类型",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220023,
+        "type": "word",
+        "original_content": "いくら",
+        "romaji_content": "ikura1",
+        "translated_content": "多少钱",
+        "explanation": "pron"
+    },
+    {
+        "id": 13867705220024,
+        "type": "word",
+        "original_content": "セール",
+        "romaji_content": "Seeru",
+        "translated_content": "sale, 促销",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220025,
+        "type": "word",
+        "original_content": "って",
+        "romaji_content": "tte",
+        "translated_content": "主语标记",
+        "explanation": "particle, 用于引用词语"
+    },
+    {
+        "id": 13867705220026,
+        "type": "word",
+        "original_content": "きく",
+        "romaji_content": "Kiku2",
+        "translated_content": "问",
+        "explanation": "godan transitive verb, 平假名形"
+    },
+    {
+        "id": 13867705220027,
+        "type": "word",
+        "original_content": "きいて",
+        "romaji_content": "Kiite",
+        "translated_content": "'きく'的te形",
+        "explanation": "godan transitive verb, 平假名形"
+    },
+    {
+        "id": 13867705220028,
+        "type": "word",
+        "original_content": "みよう",
+        "romaji_content": "miyoo",
+        "translated_content": "尝试吧",
+        "explanation": "particle, 接te形后表提议尝试"
+    },
+    {
+        "id": 13867705220029,
+        "type": "word",
+        "original_content": "円",
+        "romaji_content": "en1",
+        "translated_content": "日元单位",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220030,
+        "type": "word",
+        "original_content": "高すぎます",
+        "romaji_content": "Takasugimasu",
+        "translated_content": "'高すぎる'的masu形",
+        "explanation": "v"
+    },
+    {
+        "id": 13867705220031,
+        "type": "word",
+        "original_content": "高すぎる",
+        "romaji_content": "takasugiru",
+        "translated_content": "贵, 高",
+        "explanation": "v"
+    },
+    {
+        "id": 13867705220032,
+        "type": "word",
+        "original_content": "炊飯器",
+        "romaji_content": "suihan-ki3",
+        "translated_content": "电饭煲",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220033,
+        "type": "word",
+        "original_content": "あの",
+        "romaji_content": "Ano2",
+        "translated_content": "那个(远离双方)",
+        "explanation": "pron"
+    },
+    {
+        "id": 13867705220034,
+        "type": "word",
+        "original_content": "イヤホン",
+        "romaji_content": "iyahon",
+        "translated_content": "earphone, 耳机",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220035,
+        "type": "word",
+        "original_content": "茶碗",
+        "romaji_content": "chawan3",
+        "translated_content": "碗(陶瓷制作的)",
+        "explanation": "n"
+    },
+    {
+        "id": 13867705220035,
+        "type": "word",
+        "original_content": "絵",
+        "romaji_content": "e1",
+        "translated_content": "画",
+        "explanation": "n"
+    }
+]

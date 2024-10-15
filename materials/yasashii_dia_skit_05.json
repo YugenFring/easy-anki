@@ -1,0 +1,242 @@
+[
+    {
+        "id": 19021006280001,
+        "type": "sentence",
+        "original_content": "タムさん、今日から学校ですね。",
+        "romaji_content": "kyoo1 kara2 gakkoo4 desu ne.",
+        "translated_content": "タムsan, 今天从..开始学校是吧? (开始上学了吧).",
+        "explanation": "体会这里表达上学的用法."
+    },
+    {
+        "id": 19021006280002,
+        "type": "phrase",
+        "original_content": "あらまあ！",
+        "romaji_content": "Aramaa!",
+        "translated_content": "哦哟!",
+        "explanation": "interj, 老妇人用."
+    },
+    {
+        "id": 19021006280003,
+        "type": "sentence",
+        "original_content": "どうしたんですか。",
+        "romaji_content": "Doo shitan desu ka.",
+        "translated_content": "如何怎么做了是? (怎么了)!",
+        "explanation": "询问发生了什么."
+    },
+    {
+        "id": 19021006280004,
+        "type": "sentence",
+        "original_content": "日本語が心配です。",
+        "romaji_content": "Nihongo4 ga shinpai4 desu.",
+        "translated_content": "日语担心的是.",
+        "explanation": "对sth表达感想."
+    },
+    {
+        "id": 19021006280005,
+        "type": "sentence",
+        "original_content": "タムさんは日本語、お上手ですよ。",
+        "romaji_content": "ojoozu4 desu yo.",
+        "translated_content": "タム san 日本语, 熟练不错的是哟.",
+        "explanation": "对sth表达感想."
+    },
+    {
+        "id": 19021006280006,
+        "type": "sentence",
+        "original_content": "いいえ、まだまだです。",
+        "romaji_content": "Iie, mada1 mada desu.",
+        "translated_content": "没有, 仍然还没有是.",
+        "explanation": "体会这种谦虚的说法."
+    },
+    {
+        "id": 19021006280007,
+        "type": "sentence",
+        "original_content": "ベトナムで勉強したんでしょう？",
+        "romaji_content": "Betonamu de benkyoo4-shitan deshoo?",
+        "translated_content": "越南在学习过是吗?.",
+        "explanation": "询问是否做了某个动作."
+    },
+    {
+        "id": 19021006280008,
+        "type": "sentence",
+        "original_content": "はい、ラジオで勉強しました。",
+        "romaji_content": "Hai, rajio de benkyoo-shimashita.",
+        "translated_content": "是的, radio通过学习过.",
+        "explanation": "表达通过sth做sth."
+    },
+    {
+        "id": 19021006280009,
+        "type": "sentence",
+        "original_content": "それなら、大丈夫ですよ。",
+        "romaji_content": "Sore nara, daijoobu3 desu yo.",
+        "translated_content": "那样的话, 没问题是.",
+        "explanation": "转折后评价."
+    },
+    {
+        "id": 19021006280010,
+        "type": "sentence",
+        "original_content": "あ、日本語！どうやって勉強しましたか。",
+        "romaji_content": "A, Nihongo! Doo1-yatte2 benkyoo-shimashita ka.",
+        "translated_content": "啊, 日语! 怎么做学习过的.",
+        "explanation": "询问如何做sth."
+    },
+    {
+        "id": 19021006280011,
+        "type": "sentence",
+        "original_content": "インターネットで勉強しました。",
+        "romaji_content": "Intaanetto de benkyoo-shimashita.",
+        "translated_content": "因特网通过学习过.",
+        "explanation": "通过sth做sth."
+    },
+    {
+        "id": 19021006280012,
+        "type": "sentence",
+        "original_content": "学校で勉強しました。",
+        "romaji_content": "Gakkoo de benkyoo shimashita.",
+        "translated_content": "学校在学习过.",
+        "explanation": "通过sth做sth."
+    },
+    {
+        "id": 19021006280013,
+        "type": "word",
+        "original_content": "今日",
+        "romaji_content": "kyoo1",
+        "translated_content": "今天",
+        "explanation": "n"
+    },
+    {
+        "id": 19021006280014,
+        "type": "word",
+        "original_content": "から",
+        "romaji_content": "kara2",
+        "translated_content": "从...开始",
+        "explanation": "particle"
+    },
+    {
+        "id": 19021006280015,
+        "type": "word",
+        "original_content": "学校",
+        "romaji_content": "gakkoo4",
+        "translated_content": "学校",
+        "explanation": "n"
+    },
+    {
+        "id": 19021006280016,
+        "type": "word",
+        "original_content": "どう",
+        "romaji_content": "Doo",
+        "translated_content": "如何",
+        "explanation": "pron"
+    },
+    {
+        "id": 19021006280017,
+        "type": "word",
+        "original_content": "した",
+        "romaji_content": "shita",
+        "translated_content": "'する'的礼貌过去形",
+        "explanation": "v"
+    },
+    {
+        "id": 19021006280018,
+        "type": "word",
+        "original_content": "心配",
+        "romaji_content": "shinpai4",
+        "translated_content": "担心的",
+        "explanation": "na-naj"
+    },
+    {
+        "id": 19021006280019,
+        "type": "word",
+        "original_content": "日本語",
+        "romaji_content": "Nihongo4",
+        "translated_content": "日语",
+        "explanation": "n"
+    },
+    {
+        "id": 19021006280020,
+        "type": "word",
+        "original_content": "お上手",
+        "romaji_content": "ojoozu4",
+        "translated_content": "熟练的, 不错的",
+        "explanation": "na-adj, 礼貌形"
+    },
+    {
+        "id": 19021006280021,
+        "type": "phrase",
+        "original_content": "いいえ",
+        "romaji_content": "Iie",
+        "translated_content": "不是, 没有",
+        "explanation": "常用表达"
+    },
+    {
+        "id": 19021006280022,
+        "type": "word",
+        "original_content": "まだ",
+        "romaji_content": "mada1",
+        "translated_content": "仍然, 还没有",
+        "explanation": "adv"
+    },
+    {
+        "id": 19021006280024,
+        "type": "word",
+        "original_content": "でしょう",
+        "romaji_content": "deshoo",
+        "translated_content": "是吗",
+        "explanation": "'です'的反问形"
+    },
+    {
+        "id": 19021006280025,
+        "type": "word",
+        "original_content": "ラジオ",
+        "romaji_content": "rajio",
+        "translated_content": "radio, 广播",
+        "explanation": "n"
+    },
+    {
+        "id": 19021006280026,
+        "type": "word",
+        "original_content": "それなら",
+        "romaji_content": "Sore nara",
+        "translated_content": "那样的话",
+        "explanation": "conj"
+    },
+    {
+        "id": 19021006280027,
+        "type": "word",
+        "original_content": "大丈夫",
+        "romaji_content": "daijoobu3",
+        "translated_content": "没问题的",
+        "explanation": "na-adj"
+    },
+    {
+        "id": 19021006280028,
+        "type": "word",
+        "original_content": "やって",
+        "romaji_content": "yatte2",
+        "translated_content": "'やる'的te形",
+        "explanation": "v"
+    },
+    {
+        "id": 19021006280029,
+        "type": "word",
+        "original_content": "インターネット",
+        "romaji_content": "Intaanetto",
+        "translated_content": "因特网",
+        "explanation": "n"
+    },
+    {
+        "id": 19021006280030,
+        "type": "word",
+        "original_content": "アニメ",
+        "romaji_content": "Anime",
+        "translated_content": "animation, 动画",
+        "explanation": "n"
+    },
+    {
+        "id": 19021006280031,
+        "type": "word",
+        "original_content": "本",
+        "romaji_content": "Hon1",
+        "translated_content": "书本",
+        "explanation": "n"
+    }
+]

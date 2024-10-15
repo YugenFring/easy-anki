@@ -12,7 +12,7 @@
         "type": "sentence",
         "original_content": "はるさんハウスはどこですか。",
         "romaji_content": "Haru-san-Hause wa doko desu ka.",
-        "translated_content": "春的房屋(house)哪里在.",
+        "translated_content": "春san房屋(house)哪里在.",
         "explanation": "询问某个建筑的地点在哪里."
     },
     {
@@ -117,7 +117,7 @@
         "original_content": "あれ",
         "romaji_content": "Are.",
         "translated_content": "惊讶",
-        "explanation": "interject"
+        "explanation": "interject, 对某个消息的凑巧感到惊讶"
     },
     {
         "id": 14670723720016,

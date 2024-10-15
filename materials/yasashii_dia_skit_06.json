@@ -1,0 +1,202 @@
+[
+    {
+        "id": 12776219600001,
+        "type": "sentence",
+        "original_content": "この電車は池袋に行きますか。",
+        "romaji_content": "Kono densha31 wa Ikebukuro ni ikimasu ka.",
+        "translated_content": "这辆电车池袋去吗?",
+        "explanation": "询问sth是否能前往目的地"
+    },
+    {
+        "id": 12776219600002,
+        "type": "sentence",
+        "original_content": "いいえ、行きません。",
+        "romaji_content": "Iie, ikimasen.",
+        "translated_content": "不, 不去.",
+        "explanation": "动作的礼貌否定"
+    },
+    {
+        "id": 12776219600003,
+        "type": "sentence",
+        "original_content": "池袋は山手線です。",
+        "romaji_content": "Ikebukuro wa Yamanote?-sen1 desu.",
+        "translated_content": "池袋啊山手线是.",
+        "explanation": "说明线路."
+    },
+    {
+        "id": 12776219600004,
+        "type": "sentence",
+        "original_content": "山手線はどこですか。",
+        "romaji_content": "Yamanote?-sen1 wa doko desu ka.",
+        "translated_content": "山手线哪里是.",
+        "explanation": "询问地点所在."
+    },
+    {
+        "id": 12776219600005,
+        "type": "sentence",
+        "original_content": "三番線です。",
+        "romaji_content": "San21-ban1-sen desu.",
+        "translated_content": "三号线是.",
+        "explanation": "说明线路, 用到了次序."
+    },
+    {
+        "id": 12776219600006,
+        "type": "word",
+        "original_content": "わかりました",
+        "romaji_content": "Wakarimashita",
+        "translated_content": "知道了.",
+        "explanation": "'わかる'的礼貌过去形"
+    },
+    {
+        "id": 12776219600007,
+        "type": "sentence",
+        "original_content": "この電車は秋葉原に行きますか。",
+        "romaji_content": "Kono densha wa Akihabara ni ikimasu ka.",
+        "translated_content": "这辆电车秋叶原去吗.",
+        "explanation": "询问sth是否能前往目的地"
+    },
+    {
+        "id": 12776219600008,
+        "type": "sentence",
+        "original_content": "秋葉原は1番線です。",
+        "romaji_content": "Akihabara wa ichi2-ban-sen desu.",
+        "translated_content": "秋叶原1号线是.",
+        "explanation": "说明线路, 用到了次序."
+    },
+    {
+        "id": 12776219600009,
+        "type": "sentence",
+        "original_content": "このバスは空港に行きますか。",
+        "romaji_content": "Kono basu wa kuukoo4 ni ikimasu ka.",
+        "translated_content": "这辆bus机场去吗.",
+        "explanation": "询问sth是否能前往目的地"
+    },
+    {
+        "id": 12776219600010,
+        "type": "sentence",
+        "original_content": "この電車は新宿に行きますか。",
+        "romaji_content": "Kono densha wa Shinjuku ni ikimasu ka.",
+        "translated_content": "这辆电车新宿去吗.",
+        "explanation": "询问sth是否能前往目的地"
+    },
+    {
+        "id": 12776219600011,
+        "type": "sentence",
+        "original_content": "この新幹線は広島に行きますか。",
+        "romaji_content": "Kono Shinkansen3 wa Hiroshima4 ni ikimasu ka.",
+        "translated_content": "这辆新干线广岛去吗.",
+        "explanation": "询问sth是否能前往目的地"
+    },
+    {
+        "id": 12776219600012,
+        "type": "word",
+        "original_content": "電車",
+        "romaji_content": "densha31",
+        "translated_content": "电车",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600013,
+        "type": "word",
+        "original_content": "池袋",
+        "romaji_content": "Ikebukuro",
+        "translated_content": "池袋",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600014,
+        "type": "word",
+        "original_content": "行きません",
+        "romaji_content": "Ikimasen",
+        "translated_content": "'行く'的礼貌否定形",
+        "explanation": "v"
+    },
+    {
+        "id": 12776219600015,
+        "type": "word",
+        "original_content": "山手線",
+        "romaji_content": "Yamanote?-sen1",
+        "translated_content": "山手线",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600016,
+        "type": "word",
+        "original_content": "三番線",
+        "romaji_content": "San21-ban1-sen",
+        "translated_content": "三号线",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600017,
+        "type": "phrase",
+        "original_content": "ありがとうございます。",
+        "romaji_content": "Arigatoo gozaimasu.",
+        "translated_content": "谢谢是",
+        "explanation": "谢谢的礼貌说法"
+    },
+    {
+        "id": 12776219600018,
+        "type": "word",
+        "original_content": "秋葉原",
+        "romaji_content": "Akihabara",
+        "translated_content": "秋叶原",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600019,
+        "type": "word",
+        "original_content": "1番線",
+        "romaji_content": "ichi2-ban-sen",
+        "translated_content": "1号线",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600020,
+        "type": "word",
+        "original_content": "バス",
+        "romaji_content": "basu",
+        "translated_content": "bus",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600021,
+        "type": "word",
+        "original_content": "空港",
+        "romaji_content": "kuukoo4",
+        "translated_content": "机场",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600022,
+        "type": "word",
+        "original_content": "新宿",
+        "romaji_content": "Shinjuku",
+        "translated_content": "新宿",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600023,
+        "type": "word",
+        "original_content": "新幹線",
+        "romaji_content": "Shinkansen3",
+        "translated_content": "新干线",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600024,
+        "type": "word",
+        "original_content": "広島",
+        "romaji_content": "Hiroshima4",
+        "translated_content": "广岛",
+        "explanation": "n"
+    },
+    {
+        "id": 12776219600025,
+        "type": "word",
+        "original_content": "この",
+        "romaji_content": "Kono",
+        "translated_content": "这个",
+        "explanation": "adj"
+    }
+]

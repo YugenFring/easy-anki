@@ -1,0 +1,202 @@
+[
+    {
+        "id": 12548018570001,
+        "type": "phrase",
+        "original_content": "ただいま。",
+        "romaji_content": "Tadaima42",
+        "translated_content": "回来啦.",
+        "explanation": "回来时的寒暄语"
+    },
+    {
+        "id": 12548018570002,
+        "type": "sentence",
+        "original_content": "はるさん、新しい住人が着きましたよ。",
+        "romaji_content": "Harusan, atarashii4 juunin4 ga tsukimashita yo.",
+        "translated_content": "春san, 新的居客到达了已经哟.",
+        "explanation": ""
+    },
+    {
+        "id": 12548018570003,
+        "type": "sentence",
+        "original_content": "はーい。ようこそいらっしゃいました。",
+        "romaji_content": "Haai. Yookoso irasshaimashita.",
+        "translated_content": "好ー. 欢迎非常是.",
+        "explanation": "欢迎的 polite 说法."
+    },
+    {
+        "id": 12548018570004,
+        "type": "sentence",
+        "original_content": "え、ロボット？",
+        "romaji_content": "E, robotto?",
+        "translated_content": "欸, robot?",
+        "explanation": "有点惊奇之意."
+    },
+    {
+        "id": 12548018570005,
+        "type": "sentence",
+        "original_content": "そう。大家のはるさんです。",
+        "romaji_content": "Soo. Ooya1 no Haru-san desu.",
+        "translated_content": "这样(是). (具有)房东身份的春san是.",
+        "explanation": "体会这里对对方观点的确认之意."
+    },
+    {
+        "id": 12548018570006,
+        "type": "phrase",
+        "original_content": "はじめまして。",
+        "romaji_content": "Hajimemashite.",
+        "translated_content": "初次见面.",
+        "explanation": "第一次见面的寒暄语."
+    },
+    {
+        "id": 12548018570007,
+        "type": "phrase",
+        "original_content": "よろしくお願いします。",
+        "romaji_content": "Yoroshiku onegai-shimasu.",
+        "translated_content": "多多关照.",
+        "explanation": "常用的寒暄语."
+    },
+    {
+        "id": 12548018570008,
+        "type": "word",
+        "original_content": "新しい",
+        "romaji_content": "atarashii4",
+        "translated_content": "新的",
+        "explanation": "i-adj"
+    },
+    {
+        "id": 12548018570009,
+        "type": "word",
+        "original_content": "着く",
+        "romaji_content": "tsuku12",
+        "translated_content": "抵达, 到达",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 12548018570010,
+        "type": "word",
+        "original_content": "着きました",
+        "romaji_content": "tsukimashita12",
+        "translated_content": "'着く'的礼貌过去形",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 12548018570011,
+        "type": "phrase",
+        "original_content": "ようこそ",
+        "romaji_content": "Yookoso ",
+        "translated_content": "欢迎",
+        "explanation": "暂时列为phrase, 本身就是欢迎之意."
+    },
+    {
+        "id": 12548018570012,
+        "type": "word",
+        "original_content": "いらっしゃる",
+        "romaji_content": "irassharu ",
+        "translated_content": "是, to be",
+        "explanation": "polite godan auxiliary verb"
+    },
+    {
+        "id": 12548018570013,
+        "type": "word",
+        "original_content": "いらっしゃいました",
+        "romaji_content": "irasshaimashita ",
+        "translated_content": "'いらっしゃる'的礼貌过去形",
+        "explanation": "polite godan auxiliary verb"
+    },
+    {
+        "id": 12548018570014,
+        "type": "inject",
+        "original_content": "え",
+        "romaji_content": "E",
+        "translated_content": "欸",
+        "explanation": "表示惊奇, 发现某个新鲜的东西."
+    },
+    {
+        "id": 12548018570015,
+        "type": "word",
+        "original_content": "ロボット",
+        "romaji_content": "robotto ",
+        "translated_content": "机器人, robot",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570016,
+        "type": "word",
+        "original_content": "そう",
+        "romaji_content": "Soo ",
+        "translated_content": "这样",
+        "explanation": "pron"
+    },
+    {
+        "id": 12548018570017,
+        "type": "word",
+        "original_content": "大家",
+        "romaji_content": "Ooya1",
+        "translated_content": "房东",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570018,
+        "type": "word",
+        "original_content": "学生",
+        "romaji_content": "gakusei",
+        "translated_content": "学生",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570019,
+        "type": "word",
+        "original_content": "学生",
+        "romaji_content": "Suzuki",
+        "translated_content": "学生",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570020,
+        "type": "word",
+        "original_content": "トーマス",
+        "romaji_content": "Toomasu ",
+        "translated_content": "托马斯, Thomas",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570021,
+        "type": "word",
+        "original_content": "会社員",
+        "romaji_content": "Kaishain3",
+        "translated_content": "公司职员",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570022,
+        "type": "word",
+        "original_content": "エリン",
+        "romaji_content": "Erin",
+        "translated_content": "艾琳, erin",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570023,
+        "type": "word",
+        "original_content": "教師",
+        "romaji_content": "Kyooshi1",
+        "translated_content": "教师",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570024,
+        "type": "word",
+        "original_content": "シン",
+        "romaji_content": "Shin",
+        "translated_content": "辛格, Singh",
+        "explanation": "n"
+    },
+    {
+        "id": 12548018570025,
+        "type": "word",
+        "original_content": "エンジニア",
+        "romaji_content": "Enjinia ",
+        "translated_content": "工程师, engineer",
+        "explanation": "n"
+    }
+]

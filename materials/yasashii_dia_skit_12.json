@@ -1,0 +1,154 @@
+[
+    {
+        "id": 14569028830001,
+        "type": "sentence",
+        "original_content": "これ、かわいいお守りですね。",
+        "romaji_content": "Kore2, kawaii3 omamori4 desu ne.",
+        "translated_content": "这个, 可爱的护身符是.",
+        "explanation": "发表评价."
+    },
+    {
+        "id": 14569028830002,
+        "type": "sentence",
+        "original_content": "本当、かわいい。",
+        "romaji_content": "Hontoo4, kawaii.",
+        "translated_content": "真的, 可爱的.",
+        "explanation": "应答后发表评价."
+    },
+    {
+        "id": 14569028830003,
+        "type": "sentence",
+        "original_content": "これもいいですね。",
+        "romaji_content": "Kore mo ii desu ne.",
+        "translated_content": "这个也好不错的是.",
+        "explanation": "评价sth也不错."
+    },
+    {
+        "id": 14569028830004,
+        "type": "sentence",
+        "original_content": "それは縁結びのお守りですね。",
+        "romaji_content": "Sore2 wa enmusubi3 no omamori desu.",
+        "translated_content": "那个(带来)姻缘的护身符是.",
+        "explanation": "说明sth."
+    },
+    {
+        "id": 14569028830005,
+        "type": "sentence",
+        "original_content": "800円になります。",
+        "romaji_content": "Happyaku4-en1 ni narimasu1.",
+        "translated_content": "800日元向成为.",
+        "explanation": "说明价格."
+    },
+    {
+        "id": 14569028830006,
+        "type": "sentence",
+        "original_content": "恋人ができるお守り。",
+        "romaji_content": "Koibito4 ga dekiru2 omamori.",
+        "translated_content": "恋人产生形成得到(的)护身符.",
+        "explanation": "说明sth的功能."
+    },
+    {
+        "id": 14569028830007,
+        "type": "sentence",
+        "original_content": "じゃあ、これをください。",
+        "romaji_content": "Jaa, kore o kudasai.",
+        "translated_content": "那, 这个请. ",
+        "explanation": "表示要买sth之意."
+    },
+    {
+        "id": 14569028830008,
+        "type": "sentence",
+        "original_content": "見て、このTシャツ。",
+        "romaji_content": "Mite, kono2 tii-shatsu.",
+        "translated_content": "看请, 这件T恤衫. ",
+        "explanation": "较随意地请sb看sth."
+    },
+    {
+        "id": 14569028830009,
+        "type": "sentence",
+        "original_content": "おもしろいですね。",
+        "romaji_content": "Omoshiroi4 desu ne.",
+        "translated_content": "有趣有意思的是. ",
+        "explanation": "评价."
+    },
+    {
+        "id": 14569028830010,
+        "type": "word",
+        "original_content": "かわいい",
+        "romaji_content": "kawaii",
+        "translated_content": "可爱的. ",
+        "explanation": "adj"
+    },
+    {
+        "id": 14569028830011,
+        "type": "word",
+        "original_content": "縁結び",
+        "romaji_content": "enmusubi3",
+        "translated_content": "姻缘 ",
+        "explanation": "n"
+    },
+    {
+        "id": 14569028830012,
+        "type": "word",
+        "original_content": "恋人",
+        "romaji_content": "Koibito4",
+        "translated_content": "恋人 ",
+        "explanation": "n"
+    },
+    {
+        "id": 14569028830013,
+        "type": "word",
+        "original_content": "できる",
+        "romaji_content": "dekiru2",
+        "translated_content": "能够, 可以",
+        "explanation": "ichidan intransitive verb"
+    },
+    {
+        "id": 14569028830015,
+        "type": "word",
+        "original_content": "じゃあ",
+        "romaji_content": "Jaa",
+        "translated_content": "那",
+        "explanation": "inerj, 较随意的表达"
+    },
+    {
+        "id": 14569028830016,
+        "type": "word",
+        "original_content": "おもしろい",
+        "romaji_content": "Omoshiroi4",
+        "translated_content": "有趣有意思的",
+        "explanation": "adj, 假名形"
+    },
+    {
+        "id": 14569028830017,
+        "type": "word",
+        "original_content": "面白い",
+        "romaji_content": "Omoshiroi4",
+        "translated_content": "有趣有意思的",
+        "explanation": "i-adj, 字形"
+    },
+    {
+        "id": 14569028830018,
+        "type": "word",
+        "original_content": "大きい",
+        "romaji_content": "Ookii3",
+        "translated_content": "大的",
+        "explanation": "i-adj"
+    },
+    {
+        "id": 14569028830019,
+        "type": "word",
+        "original_content": "高い",
+        "romaji_content": "Takai2",
+        "translated_content": "昂贵的",
+        "explanation": "i-adj"
+    },
+    {
+        "id": 14569028830020,
+        "type": "word",
+        "original_content": "寒い",
+        "romaji_content": "Samui2",
+        "translated_content": "寒冷的",
+        "explanation": "i-adj"
+    }
+]

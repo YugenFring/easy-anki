@@ -1,0 +1,282 @@
+[
+    {
+        "id": 10305212970001,
+        "type": "sentence",
+        "original_content": "これ、どこですか。",
+        "romaji_content": "Kore, doko desu ka.",
+        "translated_content": "这个, 哪里是.",
+        "explanation": "指着地图问地点的位置."
+    },
+    {
+        "id": 10305212970002,
+        "type": "word",
+        "original_content": "へえ",
+        "romaji_content": "Ee.",
+        "translated_content": "哦~.",
+        "explanation": "惊喜, 知道某个消息之后."
+    },
+    {
+        "id": 10305212970003,
+        "type": "sentence",
+        "original_content": "これは京都です。",
+        "romaji_content": "Kore wa Kyooto1 desu.",
+        "translated_content": "这个京都是.",
+        "explanation": "说明这是哪."
+    },
+    {
+        "id": 10305212970004,
+        "type": "sentence",
+        "original_content": "京都はとてもきれいですよ。",
+        "romaji_content": "Kyooto wa totemo3 kiree1 desu yo.",
+        "translated_content": "京都特别漂亮的是哦.",
+        "explanation": "说明地点的特点."
+    },
+    {
+        "id": 10305212970005,
+        "type": "sentence",
+        "original_content": "そうですね。",
+        "romaji_content": "Soo desu ne.",
+        "translated_content": "这样啊.",
+        "explanation": "对消息的确认."
+    },
+    {
+        "id": 10305212970006,
+        "type": "sentence",
+        "original_content": "タムさんは日本で何をしますか。",
+        "romaji_content": "Tamu-san wa Nihon de nani1 o shimasu ka.",
+        "translated_content": "タムsan 日本在什么想干.",
+        "explanation": "询问对方相干什么."
+    },
+    {
+        "id": 10305212970007,
+        "type": "sentence",
+        "original_content": "大学で日本語を勉強します。",
+        "romaji_content": "Daigaku4 de Nihongo o benkyoo-shimasu.",
+        "translated_content": "大学在日本语打算学习.",
+        "explanation": "说明将来要做什么."
+    },
+    {
+        "id": 10305212970008,
+        "type": "sentence",
+        "original_content": "いいですね。",
+        "romaji_content": "Ii desu ne.",
+        "translated_content": "好的是呢.",
+        "explanation": "对消息的赞同, 认可."
+    },
+    {
+        "id": 10305212970009,
+        "type": "sentence",
+        "original_content": "はい、楽しみです。",
+        "romaji_content": "Hai, tanoshimi34 desu.",
+        "translated_content": "嗯, 期待的是.",
+        "explanation": "回应消息, 表达感想."
+    },
+    {
+        "id": 10305212970010,
+        "type": "sentence",
+        "original_content": "買い物をします。",
+        "romaji_content": "Kaimono4 o shimasu.",
+        "translated_content": "购物打算做.",
+        "explanation": "说明要做sth."
+    },
+    {
+        "id": 10305212970011,
+        "type": "sentence",
+        "original_content": "天ぷらを食べます。",
+        "romaji_content": "Tenpura4 o tabemasu2.",
+        "translated_content": "天妇罗打算吃.",
+        "explanation": "说明要做sth."
+    },
+    {
+        "id": 10305212970012,
+        "type": "sentence",
+        "original_content": "歌舞伎を見ます。",
+        "romaji_content": "Kabuki3 o mimasu.",
+        "translated_content": "歌舞伎打算看.",
+        "explanation": "说明要做sth."
+    },
+    {
+        "id": 10305212970013,
+        "type": "sentence",
+        "original_content": "お土産を買います。",
+        "romaji_content": "Omiyage4 o kaimasu2.",
+        "translated_content": "特产打算买.",
+        "explanation": "说明要做sth."
+    },
+    {
+        "id": 10305212970014,
+        "type": "word",
+        "original_content": "これ",
+        "romaji_content": "Kore",
+        "translated_content": "这个",
+        "explanation": "pron, 普通形"
+    },
+    {
+        "id": 10305212970015,
+        "type": "word",
+        "original_content": "どこ",
+        "romaji_content": "Doko",
+        "translated_content": "哪里",
+        "explanation": "pron, 普通形"
+    },
+    {
+        "id": 10305212970016,
+        "type": "word",
+        "original_content": "沖縄",
+        "romaji_content": "Okinawa4",
+        "translated_content": "冲绳",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970017,
+        "type": "word",
+        "original_content": "京都",
+        "romaji_content": "Kyooto1",
+        "translated_content": "京都",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970018,
+        "type": "word",
+        "original_content": "とても",
+        "romaji_content": "totemo3",
+        "translated_content": "特别地",
+        "explanation": "adv"
+    },
+    {
+        "id": 10305212970019,
+        "type": "word",
+        "original_content": "きれい",
+        "romaji_content": "kiree1",
+        "translated_content": "漂亮的",
+        "explanation": "adj"
+    },
+    {
+        "id": 10305212970020,
+        "type": "word",
+        "original_content": "日本",
+        "romaji_content": "Nihon",
+        "translated_content": "日本",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970021,
+        "type": "word",
+        "original_content": "何",
+        "romaji_content": "Nani1",
+        "translated_content": "什么",
+        "explanation": "pron"
+    },
+    {
+        "id": 10305212970022,
+        "type": "word",
+        "original_content": "します",
+        "romaji_content": "shimasu",
+        "translated_content": "'する'的礼貌形",
+        "explanation": "v"
+    },
+    {
+        "id": 10305212970023,
+        "type": "word",
+        "original_content": "大学",
+        "romaji_content": "Daigaku4",
+        "translated_content": "大学",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970024,
+        "type": "word",
+        "original_content": "日本語",
+        "romaji_content": "Nihongo",
+        "translated_content": "日本语",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970025,
+        "type": "word",
+        "original_content": "勉強",
+        "romaji_content": "benkyoo",
+        "translated_content": "学习",
+        "explanation": "n 接 surun"
+    },
+    {
+        "id": 10305212970026,
+        "type": "word",
+        "original_content": "勉強します",
+        "romaji_content": "benkyoo-shimasu",
+        "translated_content": "学习的礼貌形",
+        "explanation": "v"
+    },
+    {
+        "id": 10305212970027,
+        "type": "word",
+        "original_content": "楽しみ",
+        "romaji_content": "tanoshimi34",
+        "translated_content": "期待的",
+        "explanation": "adj"
+    },
+    {
+        "id": 10305212970028,
+        "type": "word",
+        "original_content": "買い物",
+        "romaji_content": "Kaimono4",
+        "translated_content": "购物",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970029,
+        "type": "word",
+        "original_content": "天ぷら",
+        "romaji_content": "Tenpura4",
+        "translated_content": "天妇罗",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970030,
+        "type": "word",
+        "original_content": "歌舞伎",
+        "romaji_content": "Kabuki3",
+        "translated_content": "歌舞伎",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970031,
+        "type": "word",
+        "original_content": "お土産",
+        "romaji_content": "Omiyage4",
+        "translated_content": "特产",
+        "explanation": "n"
+    },
+    {
+        "id": 10305212970032,
+        "type": "word",
+        "original_content": "買います",
+        "romaji_content": "kaimasu2",
+        "translated_content": "'買う'的masu形",
+        "explanation": "godan transitve verb"
+    },
+    {
+        "id": 10305212970033,
+        "type": "word",
+        "original_content": "買う",
+        "romaji_content": "kau2",
+        "translated_content": "买, 购买",
+        "explanation": "godan transitve verb"
+    },
+    {
+        "id": 10305212970034,
+        "type": "word",
+        "original_content": "見ます",
+        "romaji_content": "mimasu",
+        "translated_content": "'見る'的masu形",
+        "explanation": "v"
+    },
+    {
+        "id": 10305212970035,
+        "type": "word",
+        "original_content": "食べます",
+        "romaji_content": "tabemasu2",
+        "translated_content": "'食べる'的masu形",
+        "explanation": "v"
+    }
+]

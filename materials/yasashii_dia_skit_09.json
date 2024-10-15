@@ -1,0 +1,202 @@
+[
+    {
+        "id": 17786491920001,
+        "type": "sentence",
+        "original_content": "ここが「デパ地下」だよ。",
+        "romaji_content": "Koko2 ga depa-chika da yo.",
+        "translated_content": "这里百货商场(department)地下食品区是.",
+        "explanation": "说明这里是哪里."
+    },
+    {
+        "id": 17786491920002,
+        "type": "sentence",
+        "original_content": "いろんな食べ物があって、いいよね。",
+        "romaji_content": "Ironna4 tabemono32 ga atte, ii yo ne.",
+        "translated_content": "各种各样的食物有存在, 真好的.",
+        "explanation": "说明后赞美, 注意连用形."
+    },
+    {
+        "id": 17786491920003,
+        "type": "sentence",
+        "original_content": "大根の漬物だよ。",
+        "romaji_content": "Daikon4 no tsukemono4 da yo.",
+        "translated_content": "萝卜的腌制物是.",
+        "explanation": "较为随意的口吻"
+    },
+    {
+        "id": 17786491920004,
+        "type": "sentence",
+        "original_content": "これは何ですか。",
+        "romaji_content": "Kore wa nan desu ka.",
+        "translated_content": "这个什么是.",
+        "explanation": "询问sth是什么"
+    },
+    {
+        "id": 17786491920005,
+        "type": "sentence",
+        "original_content": "食べてみる？",
+        "romaji_content": "Tabete miru?",
+        "translated_content": "尝试吃?",
+        "explanation": "让对方尝试做"
+    },
+    {
+        "id": 17786491920006,
+        "type": "phrase",
+        "original_content": "いただきます",
+        "romaji_content": "Itadakimasu.",
+        "translated_content": "开始吃啦.",
+        "explanation": "开始吃饭前的感谢语."
+    },
+    {
+        "id": 17786491920007,
+        "type": "sentence",
+        "original_content": "おいしいです。",
+        "romaji_content": "Oishii desu.",
+        "translated_content": "美味的是.",
+        "explanation": "评价."
+    },
+    {
+        "id": 17786491920008,
+        "type": "sentence",
+        "original_content": "お茶です。",
+        "romaji_content": "Ocha2 desu.",
+        "translated_content": "茶叶是.",
+        "explanation": "说明."
+    },
+    {
+        "id": 17786491920009,
+        "type": "sentence",
+        "original_content": "これ？たい焼きです。",
+        "romaji_content": "Kore2? Taiyaki4 desu.",
+        "translated_content": "这个? 鲷鱼烧是.",
+        "explanation": "反问后说明."
+    },
+    {
+        "id": 17786491920010,
+        "type": "sentence",
+        "original_content": "あれは何ですか。",
+        "romaji_content": "Are wa nan desu ka.",
+        "translated_content": "那个是什么.",
+        "explanation": "离二者都远."
+    },
+    {
+        "id": 17786491920011,
+        "type": "sentence",
+        "original_content": "あれはたこ焼きです。",
+        "romaji_content": "Are2 wa takoyaki4 desu.",
+        "translated_content": "那个(远离双方)章鱼烧是.",
+        "explanation": "说明."
+    },
+    {
+        "id": 17786491920012,
+        "type": "sentence",
+        "original_content": "それは箸置きです。",
+        "romaji_content": "Sore wa hashioki23 desu.",
+        "translated_content": "那个筷子架是.",
+        "explanation": "说明, 离对方近."
+    },
+    {
+        "id": 17786491920013,
+        "type": "word",
+        "original_content": "デパ地下",
+        "romaji_content": "depa-chika",
+        "translated_content": "百货商场(department)地下食品区",
+        "explanation": "n"
+    },
+    {
+        "id": 17786491920014,
+        "type": "word",
+        "original_content": "いろんな",
+        "romaji_content": "Ironna4",
+        "translated_content": "各种各样的",
+        "explanation": "adj"
+    },
+    {
+        "id": 17786491920015,
+        "type": "word",
+        "original_content": "食べ物",
+        "romaji_content": "tabemono32",
+        "translated_content": "食物",
+        "explanation": "n"
+    },
+    {
+        "id": 17786491920015,
+        "type": "word",
+        "original_content": "あって",
+        "romaji_content": "Ate",
+        "translated_content": "有, 存在",
+        "explanation": "'ある'的te形"
+    },
+    {
+        "id": 17786491920016,
+        "type": "word",
+        "original_content": "大根",
+        "romaji_content": "Daikon4",
+        "translated_content": "萝卜",
+        "explanation": "n"
+    },
+    {
+        "id": 17786491920017,
+        "type": "word",
+        "original_content": "漬物",
+        "romaji_content": "tsukemono4",
+        "translated_content": "腌制物",
+        "explanation": "n"
+    },
+    {
+        "id": 17786491920018,
+        "type": "phrase",
+        "original_content": "みる",
+        "romaji_content": "Miru",
+        "translated_content": "尝试",
+        "explanation": "表尝试的动词后缀"
+    },
+    {
+        "id": 17786491920019,
+        "type": "word",
+        "original_content": "おいしい",
+        "romaji_content": "Oishii",
+        "translated_content": "好吃的",
+        "explanation": "adj"
+    },
+    {
+        "id": 17786491920020,
+        "type": "word",
+        "original_content": "お茶",
+        "romaji_content": "Ocha2",
+        "translated_content": "茶叶",
+        "explanation": "一般指的是绿茶"
+    },
+    {
+        "id": 17786491920021,
+        "type": "word",
+        "original_content": "たい焼き",
+        "romaji_content": "Taiyaki4 ",
+        "translated_content": "鲷鱼烧",
+        "explanation": "n"
+    },
+    {
+        "id": 17786491920022,
+        "type": "word",
+        "original_content": "あれ",
+        "romaji_content": "Are2 ",
+        "translated_content": "那个",
+        "explanation": "n, 远离双方"
+    },
+    {
+        "id": 17786491920023,
+        "type": "word",
+        "original_content": "たこ焼き",
+        "romaji_content": "takoyaki4",
+        "translated_content": "章鱼烧",
+        "explanation": "n"
+    },
+    {
+        "id": 17786491920024,
+        "type": "word",
+        "original_content": "箸置き",
+        "romaji_content": "hashioki23",
+        "translated_content": "筷子架",
+        "explanation": "n"
+    }
+]

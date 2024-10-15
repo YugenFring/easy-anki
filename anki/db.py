@@ -55,11 +55,17 @@ class Cards:
 
     def get_random_card(self):
         select_sql = """
-            SELECT * FROM(
-                SELECT * 
-                FROM cards 
-                ORDER BY next_review_date 
-                LIMIT 3
+            SELECT
+                *
+            FROM
+            (
+                SELECT
+                    *
+                FROM
+                    cards
+                ORDER BY
+                    julianday(next_review_date) - julianday(datetime('now')) ASC
+                LIMIT 5
             )
             ORDER BY RANDOM()
             LIMIT 1;

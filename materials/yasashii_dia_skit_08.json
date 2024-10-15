@@ -1,0 +1,162 @@
+[
+    {
+        "id": 17656845680001,
+        "type": "sentence",
+        "original_content": "わあ、すごい！きれいだね。",
+        "romaji_content": "Waa, sugoi2! Kiree1 da ne.",
+        "translated_content": "哇啊, 真棒! 好看的是.",
+        "explanation": "赞叹之情."
+    },
+    {
+        "id": 17656845680002,
+        "type": "sentence",
+        "original_content": "あ、遅れてごめんなさい。",
+        "romaji_content": "A, okurete gomen3 nasai.",
+        "translated_content": "迟到因为对不起.",
+        "explanation": "表达对迟到的抱歉."
+    },
+    {
+        "id": 17656845680003,
+        "type": "sentence",
+        "original_content": "友達のあやかさんです。",
+        "romaji_content": "Tomodachi4 no Ayaka-san desu.",
+        "translated_content": "朋友身份的ayaka是.",
+        "explanation": "介绍朋友."
+    },
+    {
+        "id": 17656845680004,
+        "type": "phrase",
+        "original_content": "こんにちは。",
+        "romaji_content": "Konichiwa5.",
+        "translated_content": "你好.",
+        "explanation": "寒暄语"
+    },
+    {
+        "id": 17656845680005,
+        "type": "sentence",
+        "original_content": "写真を撮ってるんでしょう？",
+        "romaji_content": "Shashin3 o totterun deshou?.",
+        "translated_content": "照片拍摄正在是吧?.",
+        "explanation": "问对方是不是干sth的."
+    },
+    {
+        "id": 17656845680006,
+        "type": "sentence",
+        "original_content": "すごいなあ。私も撮ってくださいね。",
+        "romaji_content": "Sugoi naa. Watashi mo totte kudasai ne.",
+        "translated_content": "真棒呀. 我也拍摄请.",
+        "explanation": "赞赏(自言自语)后请对方做sth."
+    },
+    {
+        "id": 17656845680007,
+        "type": "sentence",
+        "original_content": "妹のアンナです。",
+        "romaji_content": "Imooto4 no Anna desu.",
+        "translated_content": "妹妹身份的anna是.",
+        "explanation": "介绍自己的妹妹."
+    },
+    {
+        "id": 17656845680008,
+        "type": "sentence",
+        "original_content": "同僚のヤンさんです。",
+        "romaji_content": "Dooryoo4 no Yan-san desu.",
+        "translated_content": "同事身份的yang是.",
+        "explanation": "介绍自己的同事."
+    },
+    {
+        "id": 17656845680009,
+        "type": "sentence",
+        "original_content": "息子のキルリです。",
+        "romaji_content": "Musuko3 no Kiruri desu.",
+        "translated_content": "儿子身份的kiruri是.",
+        "explanation": "介绍自己的儿子."
+    },
+    {
+        "id": 17656845680010,
+        "type": "word",
+        "original_content": "遅れる",
+        "romaji_content": "okureru4",
+        "translated_content": "迟到",
+        "explanation": "ichidan intransitive verb."
+    },
+    {
+        "id": 17656845680011,
+        "type": "word",
+        "original_content": "遅れて",
+        "romaji_content": "okurete4",
+        "translated_content": "迟到",
+        "explanation": "'遅れる'的te形"
+    },
+    {
+        "id": 17656845680013,
+        "type": "word",
+        "original_content": "なさい",
+        "romaji_content": "nasai",
+        "translated_content": "请",
+        "explanation": "使表达更加礼貌的命令形后缀"
+    },
+    {
+        "id": 17656845680014,
+        "type": "word",
+        "original_content": "ごめん",
+        "romaji_content": "gomen3",
+        "translated_content": "对不起",
+        "explanation": "对不起"
+    },
+    {
+        "id": 17656845680015,
+        "type": "word",
+        "original_content": "友達",
+        "romaji_content": "Tomodachi4",
+        "translated_content": "朋友",
+        "explanation": "n"
+    },
+    {
+        "id": 17656845680016,
+        "type": "word",
+        "original_content": "写真",
+        "romaji_content": "Shashin3",
+        "translated_content": "照片",
+        "explanation": "n"
+    },
+    {
+        "id": 17656845680017,
+        "type": "word",
+        "original_content": "撮って",
+        "romaji_content": "totteru1",
+        "translated_content": "拍摄",
+        "explanation": "'撮る'的te形"
+    },
+    {
+        "id": 17656845680018,
+        "type": "word",
+        "original_content": "撮る",
+        "romaji_content": "toru1",
+        "translated_content": "拍摄",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 17656845680019,
+        "type": "word",
+        "original_content": "妹",
+        "romaji_content": "Imooto4",
+        "translated_content": "妹妹",
+        "explanation": "n"
+    },
+    {
+        "id": 17656845680020,
+        "type": "word",
+        "original_content": "同僚",
+        "romaji_content": "Dooryoo4",
+        "translated_content": "同事",
+        "explanation": "n"
+    },
+    {
+        "id": 17656845680021,
+        "type": "word",
+        "original_content": "息子",
+        "romaji_content": "Musuko3",
+        "translated_content": "儿子",
+        "explanation": "n"
+    }
+]

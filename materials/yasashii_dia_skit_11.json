@@ -1,0 +1,178 @@
+[
+    {
+        "id": 10082949620001,
+        "type": "sentence",
+        "original_content": "このTシャツ、見て。",
+        "romaji_content": "Kono tii-shatsu, mite.",
+        "translated_content": "这件T恤, 看请.",
+        "explanation": "较为随意地请对方看."
+    },
+    {
+        "id": 10082949620002,
+        "type": "sentence",
+        "original_content": "「忍者」って書いてある。",
+        "romaji_content": "”Ninja1” tte kaite aru.",
+        "translated_content": "”忍者”写着有.",
+        "explanation": "有写着某sth."
+    },
+    {
+        "id": 10082949620003,
+        "type": "phrase",
+        "original_content": "いらっしゃいませ。",
+        "romaji_content": "Irasshaimase",
+        "translated_content": "欢迎光临.",
+        "explanation": "店员常用语."
+    },
+    {
+        "id": 10082949620004,
+        "type": "sentence",
+        "original_content": "お守りはありますか。",
+        "romaji_content": "Omamori4 wa arimasu1 ka.",
+        "translated_content": "护身符存在有吗?.",
+        "explanation": "询问sth是否有."
+    },
+    {
+        "id": 10082949620005,
+        "type": "sentence",
+        "original_content": "ちょっと・・・。ここにはありませんねえ。",
+        "romaji_content": "Chotto13… Koko2 ni wa arimasen nee.",
+        "translated_content": "呃… 这里在没有不存在呢.",
+        "explanation": "犹豫后说明."
+    },
+    {
+        "id": 10082949620006,
+        "type": "sentence",
+        "original_content": "お守りはお寺にあるよ",
+        "romaji_content": "Omamori wa otera3 ni aru yo.",
+        "translated_content": "护身符,寺庙在有存在哦.",
+        "explanation": "说明sth在哪."
+    },
+    {
+        "id": 10082949620007,
+        "type": "sentence",
+        "original_content": "お寺ですか。",
+        "romaji_content": "Otera desu ka.",
+        "translated_content": "寺院是吗?",
+        "explanation": "反问sth."
+    },
+    {
+        "id": 10082949620009,
+        "type": "sentence",
+        "original_content": "はい、こちらです。",
+        "romaji_content": "Hai, kochira3 desu.",
+        "translated_content": "有的, 这里是. (给你)?",
+        "explanation": "应答将sth给sb."
+    },
+    {
+        "id": 10082949620010,
+        "type": "sentence",
+        "original_content": "忍者のTシャツはありますか。",
+        "romaji_content": "Ninja no tii-shatsu wa arimasu ka.",
+        "translated_content": "忍者的T恤衫存在有吗.",
+        "explanation": "询问sth是否有."
+    },
+    {
+        "id": 10082949620011,
+        "type": "sentence",
+        "original_content": "英語のパンフレットはありますか。",
+        "romaji_content": "Eego3 no panfuretto wa arimasu ka.",
+        "translated_content": "英语的宣传册(pamphlet)存在有吗?",
+        "explanation": "询问sth是否有."
+    },
+    {
+        "id": 10082949620012,
+        "type": "word",
+        "original_content": "Tシャツ",
+        "romaji_content": " tii-shatsu",
+        "translated_content": "T恤",
+        "explanation": "n."
+    },
+    {
+        "id": 10082949620013,
+        "type": "word",
+        "original_content": "忍者",
+        "romaji_content": " Ninja1",
+        "translated_content": "忍者",
+        "explanation": "n."
+    },
+    {
+        "id": 10082949620014,
+        "type": "word",
+        "original_content": "お守り",
+        "romaji_content": " Omamori4",
+        "translated_content": "护身符",
+        "explanation": "n."
+    },
+    {
+        "id": 10082949620015,
+        "type": "word",
+        "original_content": "ちょっと",
+        "romaji_content": " Chotto13",
+        "translated_content": "呃...",
+        "explanation": "interj, 表犹豫."
+    },
+    {
+        "id": 10082949620016,
+        "type": "word",
+        "original_content": "ここ",
+        "romaji_content": " Koko2",
+        "translated_content": "这里",
+        "explanation": "n."
+    },
+    {
+        "id": 10082949620017,
+        "type": "word",
+        "original_content": "ありません",
+        "romaji_content": " arimasen",
+        "translated_content": "'ある'的masen形",
+        "explanation": "v"
+    },
+    {
+        "id": 10082949620018,
+        "type": "word",
+        "original_content": "お寺",
+        "romaji_content": " otera3",
+        "translated_content": "寺庙",
+        "explanation": "n"
+    },
+    {
+        "id": 10082949620019,
+        "type": "word",
+        "original_content": "地図",
+        "romaji_content": " Chizu1",
+        "translated_content": "地图",
+        "explanation": "n"
+    },
+    {
+        "id": 10082949620020,
+        "type": "word",
+        "original_content": "こちら",
+        "romaji_content": " kochira3",
+        "translated_content": "这里",
+        "explanation": "n, 礼貌形"
+    },
+    {
+        "id": 10082949620021,
+        "type": "word",
+        "original_content": "扇子",
+        "romaji_content": " Sensu3",
+        "translated_content": "扇子",
+        "explanation": "n"
+    },
+    {
+        "id": 10082949620022,
+        "type": "word",
+        "original_content": "英語",
+        "romaji_content": " Eego3",
+        "translated_content": "英语",
+        "explanation": "n"
+    },
+    {
+        "id": 10082949620023,
+        "type": "word",
+        "original_content": "パンフレット",
+        "romaji_content": " panfuretto",
+        "translated_content": "宣传册(pamphlet)",
+        "explanation": "n"
+    }
+]
