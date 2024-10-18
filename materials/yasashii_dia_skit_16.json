@@ -1,0 +1,210 @@
+[
+    {
+        "id": 16664338750001,
+        "type": "sentence",
+        "original_content": "わあ、猿がいっぱい！",
+        "romaji_content": "Waa, saru ga ippai4!",
+        "translated_content": "哇, 猴子（充满地）好多!",
+        "explanation": "惊讶后感叹"
+    },
+    {
+        "id": 16664338750002,
+        "type": "sentence",
+        "original_content": "たくさん写真を撮っているのね。",
+        "romaji_content": "Takusan shashin o totte iru no ne.",
+        "translated_content": "(你)好多的照片拍正在呀.",
+        "explanation": "说明正拍了很多照片"
+    },
+    {
+        "id": 16664338750003,
+        "type": "sentence",
+        "original_content": "はい。ここは海外でも有名な温泉です。",
+        "romaji_content": "~. Koko wa kaigai1 de mo yuumee4-na onsen4 desu.",
+        "translated_content": "嗯. 这里海外在也是有名的温泉是.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750004,
+        "type": "sentence",
+        "original_content": "へえ、そうなんだ。",
+        "romaji_content": "Hee, soo nan da.",
+        "translated_content": "噢? 是这样的吗?(表示对新获得的信息的理解, 同意或确认)",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750005,
+        "type": "sentence",
+        "original_content": "猿が温泉に入るのは珍しいからね。",
+        "romaji_content": "Saru ga onsen ni hairu no wa mezurashii4 kara ne.",
+        "translated_content": "猴子温泉泡稀奇因为吧.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750006,
+        "type": "sentence",
+        "original_content": "あ、猿の赤ちゃん。かわいい。",
+        "romaji_content": "A, saru no akachan1. Kawaii.",
+        "translated_content": "啊, 猴子的幼崽. 真可爱.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750007,
+        "type": "sentence",
+        "original_content": "元気な猿ですね。",
+        "romaji_content": "Genki-na1 saru desu ne.",
+        "translated_content": "真是活泼的猴子呀.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750008,
+        "type": "sentence",
+        "original_content": "本当！元気ですね。",
+        "romaji_content": "Hontoo4! Genki desu ne.",
+        "translated_content": "真的! 真活泼.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750009,
+        "type": "sentence",
+        "original_content": "静かな場所ですね。",
+        "romaji_content": "Shizuka1-na basho2 desu ne.",
+        "translated_content": "真是一个安静的地方呀.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750010,
+        "type": "sentence",
+        "original_content": "きれいな景色ですね。",
+        "romaji_content": "Kiree1-na keshiki1 desu ne.",
+        "translated_content": "真是漂亮的景色啊呀.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750011,
+        "type": "sentence",
+        "original_content": "立派な建物ですね。",
+        "romaji_content": "Rippa3-na tatemono2 desu ne.",
+        "translated_content": "真是气派的建筑呀.",
+        "explanation": ""
+    },
+    {
+        "id": 16664338750012,
+        "type": "word",
+        "original_content": "いっぱい",
+        "romaji_content": "ippai4",
+        "translated_content": "充满地.",
+        "explanation": "adv"
+    },
+    {
+        "id": 16664338750013,
+        "type": "word",
+        "original_content": "ここ",
+        "romaji_content": "Koko",
+        "translated_content": "这里.",
+        "explanation": "n, 普通说法"
+    },
+    {
+        "id": 16664338750014,
+        "type": "word",
+        "original_content": "海外",
+        "romaji_content": "kaigai1",
+        "translated_content": "海外",
+        "explanation": "n"
+    },
+    {
+        "id": 16664338750015,
+        "type": "word",
+        "original_content": "有名",
+        "romaji_content": "yuumee4",
+        "translated_content": "有名",
+        "explanation": "na-adj"
+    },
+    {
+        "id": 16664338750016,
+        "type": "word",
+        "original_content": "なん",
+        "romaji_content": "nan",
+        "translated_content": "表示对消息的惊讶, 感兴趣和进一步的确认.",
+        "explanation": "interject"
+    },
+    {
+        "id": 16664338750017,
+        "type": "word",
+        "original_content": "珍しい",
+        "romaji_content": "mezurashii4",
+        "translated_content": "稀奇的",
+        "explanation": "adj"
+    },
+    {
+        "id": 16664338750018,
+        "type": "word",
+        "original_content": "赤ちゃん",
+        "romaji_content": "akachan1",
+        "translated_content": "幼崽",
+        "explanation": "n"
+    },
+    {
+        "id": 16664338750019,
+        "type": "word",
+        "original_content": "元気",
+        "romaji_content": "Genki",
+        "translated_content": "活泼的",
+        "explanation": "na-adj"
+    },
+    {
+        "id": 16664338750020,
+        "type": "word",
+        "original_content": "本当",
+        "romaji_content": "Hontoo4",
+        "translated_content": "真的",
+        "explanation": "adj"
+    },
+    {
+        "id": 16664338750021,
+        "type": "word",
+        "original_content": "静か",
+        "romaji_content": "Shizuka1",
+        "translated_content": "安静的",
+        "explanation": "adj"
+    },
+    {
+        "id": 16664338750022,
+        "type": "word",
+        "original_content": "場所",
+        "romaji_content": "basho2",
+        "translated_content": "场所, 地方",
+        "explanation": "n"
+    },
+    {
+        "id": 16664338750023,
+        "type": "word",
+        "original_content": "きれい",
+        "romaji_content": "Kiree1",
+        "translated_content": "漂亮的",
+        "explanation": "na-adj"
+    },
+    {
+        "id": 16664338750024,
+        "type": "word",
+        "original_content": "景色",
+        "romaji_content": "keshiki1",
+        "translated_content": "景色",
+        "explanation": "n"
+    },
+    {
+        "id": 16664338750025,
+        "type": "word",
+        "original_content": "立派",
+        "romaji_content": "Rippa3",
+        "translated_content": "气派的",
+        "explanation": "na-adj"
+    },
+    {
+        "id": 16664338750026,
+        "type": "word",
+        "original_content": "建物",
+        "romaji_content": "tatemono2",
+        "translated_content": "建筑",
+        "explanation": "n"
+    }
+]

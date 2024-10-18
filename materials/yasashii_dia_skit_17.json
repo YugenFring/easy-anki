@@ -1,0 +1,202 @@
+[
+    {
+        "id": 18644868690001,
+        "type": "sentence",
+        "original_content": "おそば三つ、お願いします。",
+        "romaji_content": "Osoba2 mittsu3 , onegai-shimasu.",
+        "translated_content": "荞麦面3份请求.",
+        "explanation": "向服务员要3份."
+    },
+    {
+        "id": 18644868690002,
+        "type": "sentence",
+        "original_content": "日本えは、観光ですか。",
+        "romaji_content": "Nihon e wa, kankoo4 desu ka.",
+        "translated_content": "日本(强调), 观光是吗.",
+        "explanation": "询问对方."
+    },
+    {
+        "id": 18644868690003,
+        "type": "sentence",
+        "original_content": "ええと、私は写真家で、日本のことを海外に紹介しています。",
+        "romaji_content": "Eeto, watashi wa shashinka de, Nihon no koto o kaigai ni shookai4-shite imasu.",
+        "translated_content": "嗯... 我摄影师是, (有关)日本的事情海外向介绍正在.",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690004,
+        "type": "sentence",
+        "original_content": "それで、日本を旅行しています。",
+        "romaji_content": "Sore de, Nihon o ryokoo3-shite imasu.",
+        "translated_content": "因此所以, 日本旅行正在.",
+        "explanation": "转折句"
+    },
+    {
+        "id": 18644868690005,
+        "type": "sentence",
+        "original_content": "それはすばらしいね。",
+        "romaji_content": "Sore wa subarashii4 ne.",
+        "translated_content": "那可真不错呀..",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690006,
+        "type": "phrase",
+        "original_content": "お待たせしました。",
+        "romaji_content": "Omatase-shimashita.",
+        "translated_content": "(让您)久等了..",
+        "explanation": "服务员用"
+    },
+    {
+        "id": 18644868690007,
+        "type": "sentence",
+        "original_content": "旅行ですか。",
+        "romaji_content": "Ryokoo3 desu ka.",
+        "translated_content": "(你)旅行是吗?",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690008,
+        "type": "sentence",
+        "original_content": "はい。あちこち旅行しています。",
+        "romaji_content": "Hai. Achikochi2 ryokoo-shite imasu.",
+        "translated_content": "是的. 到处旅游正在.",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690009,
+        "type": "sentence",
+        "original_content": "日本語を勉強しています。",
+        "romaji_content": "Nihongo4 o benkyoo4-shitei imasu.",
+        "translated_content": "日语学习正在.",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690009,
+        "type": "sentence",
+        "original_content": "仕事をしています。",
+        "romaji_content": "Shigoto3 o shite imasu.",
+        "translated_content": "工作做正在.",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690010,
+        "type": "sentence",
+        "original_content": "英語を教えています。",
+        "romaji_content": "Eego3 o oshiete imasu.",
+        "translated_content": "英语教正在.",
+        "explanation": ""
+    },
+    {
+        "id": 18644868690011,
+        "type": "word",
+        "original_content": "おそば",
+        "romaji_content": "Osoba2",
+        "translated_content": "荞麦面",
+        "explanation": "n"
+    },
+    {
+        "id": 18644868690012,
+        "type": "word",
+        "original_content": "三つ",
+        "romaji_content": "mittsu3",
+        "translated_content": "3份",
+        "explanation": "count"
+    },
+    {
+        "id": 18644868690013,
+        "type": "word",
+        "original_content": "観光",
+        "romaji_content": "kankoo4",
+        "translated_content": "观光",
+        "explanation": "n"
+    },
+    {
+        "id": 18644868690014,
+        "type": "word",
+        "original_content": "写真家",
+        "romaji_content": "shashinka",
+        "translated_content": "摄影师",
+        "explanation": "n"
+    },
+    {
+        "id": 18644868690015,
+        "type": "word",
+        "original_content": "紹介",
+        "romaji_content": "shookai4",
+        "translated_content": "介绍",
+        "explanation": "suru-n"
+    },
+    {
+        "id": 18644868690016,
+        "type": "word",
+        "original_content": "それで",
+        "romaji_content": "Sore de",
+        "translated_content": "因此所以,",
+        "explanation": "conjunct"
+    },
+    {
+        "id": 18644868690017,
+        "type": "word",
+        "original_content": "旅行",
+        "romaji_content": "ryokoo3",
+        "translated_content": "旅行",
+        "explanation": "ryokoo3"
+    },
+    {
+        "id": 18644868690018,
+        "type": "word",
+        "original_content": "すばらしい",
+        "romaji_content": "subarashii4",
+        "translated_content": "真不错的",
+        "explanation": "adj"
+    },
+    {
+        "id": 18644868690019,
+        "type": "word",
+        "original_content": "待つ",
+        "romaji_content": "matsu1",
+        "translated_content": "等待",
+        "explanation": "godan verb"
+    },
+    {
+        "id": 18644868690020,
+        "type": "word",
+        "original_content": "あちこち",
+        "romaji_content": "Achikochi2",
+        "translated_content": "到处",
+        "explanation": "adv"
+    },
+    {
+        "id": 18644868690021,
+        "type": "word",
+        "original_content": "仕事",
+        "romaji_content": "Shigoto3",
+        "translated_content": "工作",
+        "explanation": "n"
+    },
+    {
+        "id": 18644868690022,
+        "type": "word",
+        "original_content": "英語",
+        "romaji_content": "Eego3",
+        "translated_content": "英语",
+        "explanation": "n"
+    },
+    {
+        "id": 18644868690022,
+        "type": "word",
+        "original_content": "教える",
+        "romaji_content": "oshieru4",
+        "translated_content": "教学",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 18644868690023,
+        "type": "word",
+        "original_content": "教えて",
+        "romaji_content": "oshiete4",
+        "translated_content": "'教える'的te形",
+        "explanation": "ichidan transitive verb"
+    }
+]

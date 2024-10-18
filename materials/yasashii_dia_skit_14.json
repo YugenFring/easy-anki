@@ -1,0 +1,266 @@
+[
+    {
+        "id": 11597843910001,
+        "type": "sentence",
+        "original_content": "こんにちは。わたしはタムです。",
+        "romaji_content": "Konnichiwa.Watashi wa Tamu desu.",
+        "translated_content": "你好. 我心心是.",
+        "explanation": "介绍自己."
+    },
+    {
+        "id": 11597843910002,
+        "type": "sentence",
+        "original_content": "日本語ができるんですね！",
+        "romaji_content": "Nihongo ga dekirun2 desu ne!",
+        "translated_content": "日语会的是啊!",
+        "explanation": "表达sb会sth."
+    },
+    {
+        "id": 11597843910003,
+        "type": "sentence",
+        "original_content": "少しだけです。",
+        "romaji_content": "Sukoshi2 dake desu.",
+        "translated_content": "一点儿只有是.",
+        "explanation": "谦虚表达只会一点"
+    },
+    {
+        "id": 11597843910004,
+        "type": "sentence",
+        "original_content": "ラジオで勉強しました。",
+        "romaji_content": "Rajio de benkyoo4-shimashita.",
+        "translated_content": "通过广播学的.",
+        "explanation": "表达通过某种方式学sth"
+    },
+    {
+        "id": 11597843910005,
+        "type": "sentence",
+        "original_content": "へえ。すごいですね。",
+        "romaji_content": "Hee. Sugoi desu ne.",
+        "translated_content": "是吗? 真了不起.",
+        "explanation": "小惊讶后夸sb."
+    },
+    {
+        "id": 11597843910006,
+        "type": "sentence",
+        "original_content": "日本へ行ってみたいです。",
+        "romaji_content": "Nihon e itte2 mitai desu.",
+        "translated_content": "日本去想是.",
+        "explanation": "表达想去某个未曾去过之地."
+    },
+    {
+        "id": 11597843910007,
+        "type": "sentence",
+        "original_content": "ぜひ来てください。",
+        "romaji_content": "Zehi1 kite1 kudasai.",
+        "translated_content": "请一定要来啊.",
+        "explanation": "有点邀请之意."
+    },
+    {
+        "id": 11597843910008,
+        "type": "sentence",
+        "original_content": "ぼくが案内しますよ。",
+        "romaji_content": "Boku ga annai3-shimasu yo.",
+        "translated_content": "我给你做向导.",
+        "explanation": ""
+    },
+    {
+        "id": 11597843910009,
+        "type": "sentence",
+        "original_content": "そうですね・・・相撲を見てみたいです。",
+        "romaji_content": "Soo desu ne… Sumoo3 o mite1 mitai desu.",
+        "translated_content": "这个嘛…相扑看看想.",
+        "explanation": "先确认再表达想做sth"
+    },
+    {
+        "id": 11597843910010,
+        "type": "sentence",
+        "original_content": "富士山に登ってみたいです。",
+        "romaji_content": "Fujisan3 ni nobotte3 mitai desu.",
+        "translated_content": "我富士山爬想.",
+        "explanation": ""
+    },
+    {
+        "id": 11597843910011,
+        "type": "sentence",
+        "original_content": "新幹線に乗ってみたいです。",
+        "romaji_content": "Shinkansen3 ni notte2 mitai desu.",
+        "translated_content": "新干线坐想.",
+        "explanation": ""
+    },
+    {
+        "id": 11597843910012,
+        "type": "sentence",
+        "original_content": "着物を着てみたいです。",
+        "romaji_content": "Kimono3 o kite2 mitai desu.",
+        "translated_content": "和服穿想.",
+        "explanation": ""
+    },
+    {
+        "id": 11597843910013,
+        "type": "word",
+        "original_content": "できる",
+        "romaji_content": "dekiru2",
+        "translated_content": "能够",
+        "explanation": "ichidan intransitive verb"
+    },
+    {
+        "id": 11597843910014,
+        "type": "word",
+        "original_content": "少し",
+        "romaji_content": "Sukoshi2",
+        "translated_content": "一点儿",
+        "explanation": "adv"
+    },
+    {
+        "id": 11597843910015,
+        "type": "word",
+        "original_content": "だけ",
+        "romaji_content": "dake",
+        "translated_content": "仅仅, 不超过 (限定范围)",
+        "explanation": "particle"
+    },
+    {
+        "id": 11597843910016,
+        "type": "word",
+        "original_content": "ラジオ",
+        "romaji_content": "Rajio",
+        "translated_content": "radio",
+        "explanation": "n"
+    },
+    {
+        "id": 11597843910017,
+        "type": "word",
+        "original_content": "へえ",
+        "romaji_content": "Hee",
+        "translated_content": "是吗?",
+        "explanation": "interject, 通过疑问表示惊讶"
+    },
+    {
+        "id": 11597843910018,
+        "type": "word",
+        "original_content": "へ",
+        "romaji_content": "e",
+        "translated_content": "去, 往 (目标或方向, 比’に’更加的模糊和宏观)",
+        "explanation": "particle"
+    },
+    {
+        "id": 11597843910019,
+        "type": "word",
+        "original_content": "ぜひ",
+        "romaji_content": "Zehi1",
+        "translated_content": "当然, 一定",
+        "explanation": "adv"
+    },
+    {
+        "id": 11597843910020,
+        "type": "word",
+        "original_content": "案内",
+        "romaji_content": "annai3",
+        "translated_content": "导游, 带路, 参观",
+        "explanation": "noun + する | transitive verb"
+    },
+    {
+        "id": 11597843910021,
+        "type": "word",
+        "original_content": "相撲",
+        "romaji_content": "Sumoo3",
+        "translated_content": "相扑",
+        "explanation": "n"
+    },
+    {
+        "id": 11597843910022,
+        "type": "word",
+        "original_content": "富士山",
+        "romaji_content": "Fujisan3",
+        "translated_content": "富士山",
+        "explanation": "n"
+    },
+    {
+        "id": 11597843910023,
+        "type": "word",
+        "original_content": "新幹線",
+        "romaji_content": "Shinkansen3",
+        "translated_content": "新干线",
+        "explanation": "n"
+    },
+    {
+        "id": 11597843910024,
+        "type": "word",
+        "original_content": "着物",
+        "romaji_content": "Kimono3",
+        "translated_content": "和服",
+        "explanation": "n"
+    },
+    {
+        "id": 11597843910025,
+        "type": "word",
+        "original_content": "来る",
+        "romaji_content": "kuru1",
+        "translated_content": "来, 接近, 到达",
+        "explanation": "kuru intransitive verb"
+    },
+    {
+        "id": 11597843910026,
+        "type": "word",
+        "original_content": "来て",
+        "romaji_content": "kite1",
+        "translated_content": "'来る'的te形",
+        "explanation": "kuru intransitive verb"
+    },
+    {
+        "id": 11597843910027,
+        "type": "word",
+        "original_content": "登る",
+        "romaji_content": "noboru3",
+        "translated_content": "往上, 攀登, 爬",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 11597843910028,
+        "type": "word",
+        "original_content": "登って",
+        "romaji_content": "nobotte3",
+        "translated_content": "'登る'的te形",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 11597843910029,
+        "type": "word",
+        "original_content": "乗る",
+        "romaji_content": "noru2",
+        "translated_content": "登上, 乘坐, 进入(交通工具)",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 11597843910030,
+        "type": "word",
+        "original_content": "乗って",
+        "romaji_content": "notte2",
+        "translated_content": "'乗る'的te形",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 11597843910031,
+        "type": "word",
+        "original_content": "着る",
+        "romaji_content": "kiru2",
+        "translated_content": "穿(从肩膀往下), 穿上",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 11597843910032,
+        "type": "word",
+        "original_content": "着て",
+        "romaji_content": "kite2",
+        "translated_content": "'着る'的te形",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 11597843910032,
+        "type": "word",
+        "original_content": "みたい",
+        "romaji_content": "mitai",
+        "translated_content": "愿望去",
+        "explanation": "接te形后表示愿望去做sth"
+    }
+]

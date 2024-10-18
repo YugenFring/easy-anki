@@ -1,0 +1,274 @@
+[
+    {
+        "id": 19461017040001,
+        "type": "sentence",
+        "original_content": "どちらまで？",
+        "romaji_content": "Dochira1 made?",
+        "translated_content": "(你)哪里去到?",
+        "explanation": "司机询问客人, 省略句."
+    },
+    {
+        "id": 19461017040002,
+        "type": "sentence",
+        "original_content": "猿の温泉までお願いします。",
+        "romaji_content": "Saru1 no onsen4 made onegai-shimasi.",
+        "translated_content": "野猿温泉去到请",
+        "explanation": "向司机说明到某地."
+    },
+    {
+        "id": 19461017040003,
+        "type": "sentence",
+        "original_content": "はい、わかりました。",
+        "romaji_content": "Hai, wakarimashita.",
+        "translated_content": "好的, 知道了.",
+        "explanation": "表示自己明白了."
+    },
+    {
+        "id": 19461017040004,
+        "type": "sentence",
+        "original_content": "こちらは初めてですか。",
+        "romaji_content": "Kochira3 wa hajimete2 desu ka.",
+        "translated_content": "这里(你)第一次(去)是吗.",
+        "explanation": "问这里是否是第一次来."
+    },
+    {
+        "id": 19461017040005,
+        "type": "sentence",
+        "original_content": "猿の写真を撮りに行きます。",
+        "romaji_content": "Saru no shashin3 o tori ni ikimasu.",
+        "translated_content": "猴子的照片拍去要.",
+        "explanation": "说明要去做sth."
+    },
+    {
+        "id": 19461017040006,
+        "type": "sentence",
+        "original_content": "そうですか。",
+        "romaji_content": "Soo desu ka.",
+        "translated_content": "这样啊?!",
+        "explanation": "对消息的确认, 略有疑问"
+    },
+    {
+        "id": 19461017040007,
+        "type": "sentence",
+        "original_content": "今日は寒いから、猿がたくさん温泉に入ってますよ。",
+        "romaji_content": "Kyoo wa samui2 kara2, saru ga takusan3 onsen ni haitte masu yo.",
+        "translated_content": "由于今天天气寒冷, 所以猴子大量地进入温泉里.",
+        "explanation": "原因说明"
+    },
+    {
+        "id": 19461017040008,
+        "type": "sentence",
+        "original_content": "どちらまでですか。",
+        "romaji_content": "Dochira made desu ka.",
+        "translated_content": "您去哪儿?",
+        "explanation": "司机询问客人, 完整语句."
+    },
+    {
+        "id": 19461017040009,
+        "type": "sentence",
+        "original_content": "チェックアウト、お願いします。",
+        "romaji_content": "Chekku-auto, ~.",
+        "translated_content": "请退房.",
+        "explanation": ""
+    },
+    {
+        "id": 19461017040010,
+        "type": "sentence",
+        "original_content": "コーヒー、お願いします。",
+        "romaji_content": "Koohii1 ~.",
+        "translated_content": "请(来杯)咖啡.",
+        "explanation": ""
+    },
+    {
+        "id": 19461017040011,
+        "type": "sentence",
+        "original_content": "お会計、お願いします。",
+        "romaji_content": "Okaikee2, ~",
+        "translated_content": "请结账.",
+        "explanation": "服务员用"
+    },
+    {
+        "id": 19461017040012,
+        "type": "word",
+        "original_content": "まで",
+        "romaji_content": "made",
+        "translated_content": "到",
+        "explanation": "particle"
+    },
+    {
+        "id": 19461017040013,
+        "type": "word",
+        "original_content": "猿",
+        "romaji_content": "Saru1",
+        "translated_content": "猴子",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040014,
+        "type": "word",
+        "original_content": "温泉",
+        "romaji_content": "onsen4",
+        "translated_content": "温泉",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040015,
+        "type": "word",
+        "original_content": "願い",
+        "romaji_content": "negai2",
+        "translated_content": "请求, 恳求",
+        "explanation": "suru-n"
+    },
+    {
+        "id": 19461017040016,
+        "type": "word",
+        "original_content": "わかる",
+        "romaji_content": "wakaru2",
+        "translated_content": "知道",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 19461017040017,
+        "type": "word",
+        "original_content": "こちら",
+        "romaji_content": "Kochira3",
+        "translated_content": "这里",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040018,
+        "type": "word",
+        "original_content": "初めて",
+        "romaji_content": "hajimete2",
+        "translated_content": "第一次",
+        "explanation": "adv"
+    },
+    {
+        "id": 19461017040019,
+        "type": "word",
+        "original_content": "写真",
+        "romaji_content": "shashin3",
+        "translated_content": "照片",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040020,
+        "type": "word",
+        "original_content": "撮る",
+        "romaji_content": "toru1",
+        "translated_content": "拍摄",
+        "explanation": "godan transitive verb"
+    },
+    {
+        "id": 19461017040021,
+        "type": "word",
+        "original_content": "今日",
+        "romaji_content": "Kyoo",
+        "translated_content": "今天",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040022,
+        "type": "word",
+        "original_content": "寒い",
+        "romaji_content": "samui2",
+        "translated_content": "寒冷的",
+        "explanation": "adj"
+    },
+    {
+        "id": 19461017040023,
+        "type": "word",
+        "original_content": "から",
+        "romaji_content": "kara",
+        "translated_content": "因为",
+        "explanation": "particle"
+    },
+    {
+        "id": 19461017040024,
+        "type": "word",
+        "original_content": "入る",
+        "romaji_content": "hairu1",
+        "translated_content": "进入, 进来",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 19461017040025,
+        "type": "word",
+        "original_content": "入って",
+        "romaji_content": "haitte",
+        "translated_content": "'入る'的te形",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 19461017040026,
+        "type": "word",
+        "original_content": "空港",
+        "romaji_content": "Kuukoo4",
+        "translated_content": "机场",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040027,
+        "type": "word",
+        "original_content": "東京",
+        "romaji_content": "Tookyoo3",
+        "translated_content": "东京",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040028,
+        "type": "word",
+        "original_content": "スカイツリー",
+        "romaji_content": "Sukai-tsurii",
+        "translated_content": "晴空塔(skytree)",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040029,
+        "type": "word",
+        "original_content": "ホテル",
+        "romaji_content": "hoteru",
+        "translated_content": "酒店, hotel",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040030,
+        "type": "word",
+        "original_content": "横浜",
+        "romaji_content": "Yokohama",
+        "translated_content": "横滨",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040031,
+        "type": "word",
+        "original_content": "横浜駅",
+        "romaji_content": "Yokohama-eki5",
+        "translated_content": "横滨站",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040032,
+        "type": "phrase",
+        "original_content": "チェックアウト",
+        "romaji_content": "Chekku-auto",
+        "translated_content": "check out",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040033,
+        "type": "word",
+        "original_content": "コーヒー",
+        "romaji_content": "Koohii1",
+        "translated_content": "咖啡",
+        "explanation": "n"
+    },
+    {
+        "id": 19461017040034,
+        "type": "word",
+        "original_content": "お会計",
+        "romaji_content": "Okaikee2",
+        "translated_content": "结账",
+        "explanation": "n, 服务员用"
+    }
+]

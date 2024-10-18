@@ -2,9 +2,6 @@ import math
 import difflib
 import re
 
-from datetime import datetime
-
-
 def forgetting_curve(initial_strength, time_elapsed, stability=2.5):
     """
     计算 memory 的 strength, 其公式为 f(x) = e^-x, x = t/s.

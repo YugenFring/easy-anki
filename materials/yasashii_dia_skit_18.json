@@ -1,0 +1,266 @@
+[
+    {
+        "id": 18797646160001,
+        "type": "sentence",
+        "original_content": "おかえりなさい。",
+        "romaji_content": "Okaerinasai.",
+        "translated_content": "回来请. (回来啦).",
+        "explanation": "对回来之人说的."
+    },
+    {
+        "id": 18797646160002,
+        "type": "sentence",
+        "original_content": "長野はどうでしたか。",
+        "romaji_content": "Nagano wa doo1 deshita ka.",
+        "translated_content": "长野怎么样是?",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160003,
+        "type": "sentence",
+        "original_content": "すごく楽しかったです。",
+        "romaji_content": "Sugoku tanoshikatta desu.",
+        "translated_content": "特别(程度更高, 更口语)开心(过去时).",
+        "explanation": "叙述过去的感受"
+    },
+    {
+        "id": 18797646160004,
+        "type": "sentence",
+        "original_content": "写真をたくさん撮りました。",
+        "romaji_content": "Shashin o takusan torimashita.",
+        "translated_content": "(我)拍了很多照片.",
+        "explanation": "做了什么事"
+    },
+    {
+        "id": 18797646160005,
+        "type": "sentence",
+        "original_content": "それから、おそばも食べました。",
+        "romaji_content": "Sorekara2, osoba2 mo tabemashita.",
+        "translated_content": "然后, 还吃了荞麦面.",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160006,
+        "type": "sentence",
+        "original_content": "そうですか。よかったですね。",
+        "romaji_content": "Soo desu ka. Yokatta desu ne.",
+        "translated_content": "是吗? 真是太好了.",
+        "explanation": "对sb经历的赞美"
+    },
+    {
+        "id": 18797646160007,
+        "type": "sentence",
+        "original_content": "長野の人はとても親切でした。",
+        "romaji_content": "Nagano no hito2 wa totemo shinsetsu1 deshita.",
+        "translated_content": "长野人(是)特别热情(的).",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160008,
+        "type": "sentence",
+        "original_content": "楽しい旅行でしたね。",
+        "romaji_content": "Tanoshii ryokoo deshita ne.",
+        "translated_content": "真是开心的旅程啊.",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160009,
+        "type": "sentence",
+        "original_content": "大阪はどうでしたか。",
+        "romaji_content": "Oosaka3 wa doo deshita ka.",
+        "translated_content": "大阪怎么样?",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160010,
+        "type": "sentence",
+        "original_content": "よかったです。とてもにぎやかでした。",
+        "romaji_content": "Yokatta desu. Totemo3 nigiyaka2 deshita.",
+        "translated_content": "很好. (是)非常热闹(的)?",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160011,
+        "type": "sentence",
+        "original_content": "すばらしかったです。",
+        "romaji_content": "Subarashikatta desu.",
+        "translated_content": "很棒!",
+        "explanation": "叙述过去的感受"
+    },
+    {
+        "id": 18797646160012,
+        "type": "sentence",
+        "original_content": "きれいでした。",
+        "romaji_content": "Kiree1 deshita.",
+        "translated_content": "漂亮的是",
+        "explanation": "叙述过去的感受"
+    },
+    {
+        "id": 18797646160013,
+        "type": "sentence",
+        "original_content": "おもしろかったです。",
+        "romaji_content": "Omoshirokatta desu.",
+        "translated_content": "有意思的是.",
+        "explanation": "叙述过去的感受"
+    },
+    {
+        "id": 18797646160014,
+        "type": "word",
+        "original_content": "かえる",
+        "romaji_content": "kaeru1",
+        "translated_content": "回来, 回家.",
+        "explanation": "godan intransitve verb"
+    },
+    {
+        "id": 18797646160016,
+        "type": "word",
+        "original_content": "帰る",
+        "romaji_content": "kaeru1",
+        "translated_content": "回来, 回家.",
+        "explanation": "godan intransitve verb, 字形"
+    },
+    {
+        "id": 18797646160017,
+        "type": "word",
+        "original_content": "長野",
+        "romaji_content": "Nagano",
+        "translated_content": "长野",
+        "explanation": "n"
+    },
+    {
+        "id": 18797646160018,
+        "type": "word",
+        "original_content": "どう",
+        "romaji_content": "doo1",
+        "translated_content": "怎么样",
+        "explanation": "n"
+    },
+    {
+        "id": 18797646160019,
+        "type": "word",
+        "original_content": "どう",
+        "romaji_content": "doo1",
+        "translated_content": "怎么样",
+        "explanation": "adv"
+    },
+    {
+        "id": 18797646160020,
+        "type": "word",
+        "original_content": "でした",
+        "romaji_content": "deshita",
+        "translated_content": "'です'过去形",
+        "explanation": "v"
+    },
+    {
+        "id": 18797646160021,
+        "type": "word",
+        "original_content": "すごく",
+        "romaji_content": "Sugoku",
+        "translated_content": "特别(程度更高, 更口语)",
+        "explanation": "v"
+    },
+    {
+        "id": 18797646160022,
+        "type": "word",
+        "original_content": "楽しかった",
+        "romaji_content": "tanoshikatta3",
+        "translated_content": "开心的(过去时).",
+        "explanation": "adj"
+    },
+    {
+        "id": 18797646160023,
+        "type": "word",
+        "original_content": "楽しい ",
+        "romaji_content": "tanoshii3",
+        "translated_content": "开心的.",
+        "explanation": "adj"
+    },
+    {
+        "id": 18797646160024,
+        "type": "word",
+        "original_content": "それから ",
+        "romaji_content": "Sorekara2",
+        "translated_content": "然后.",
+        "explanation": "conjunct"
+    },
+    {
+        "id": 18797646160025,
+        "type": "word",
+        "original_content": "おいしかった ",
+        "romaji_content": "oishikatta4",
+        "translated_content": "好吃的.",
+        "explanation": "过去形"
+    },
+    {
+        "id": 18797646160026,
+        "type": "word",
+        "original_content": "おいしい",
+        "romaji_content": "Oishii4",
+        "translated_content": "好吃的.",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160027,
+        "type": "word",
+        "original_content": "よい",
+        "romaji_content": "yoi1",
+        "translated_content": "好的.",
+        "explanation": ""
+    },
+    {
+        "id": 18797646160028,
+        "type": "word",
+        "original_content": "よかった",
+        "romaji_content": "Yokatta",
+        "translated_content": "好的.",
+        "explanation": "过去形"
+    },
+    {
+        "id": 18797646160029,
+        "type": "word",
+        "original_content": "人",
+        "romaji_content": "hito2",
+        "translated_content": "人",
+        "explanation": "n"
+    },
+    {
+        "id": 18797646160030,
+        "type": "word",
+        "original_content": "親切",
+        "romaji_content": "shinsetsu1",
+        "translated_content": "热情的",
+        "explanation": "adj"
+    },
+    {
+        "id": 18797646160031,
+        "type": "word",
+        "original_content": "大阪",
+        "romaji_content": "Oosaka3",
+        "translated_content": "大阪",
+        "explanation": "n"
+    },
+    {
+        "id": 18797646160032,
+        "type": "word",
+        "original_content": "にぎやか",
+        "romaji_content": "nigiyaka2",
+        "translated_content": "热闹的",
+        "explanation": "na-adj"
+    },
+    {
+        "id": 18797646160033,
+        "type": "word",
+        "original_content": "すばらしかった",
+        "romaji_content": "Subarashikatta4",
+        "translated_content": "很棒的",
+        "explanation": "adj, 过去形"
+    },
+    {
+        "id": 18797646160034,
+        "type": "word",
+        "original_content": "おもしろかった",
+        "romaji_content": "Omoshirokatta4",
+        "translated_content": "有意思的",
+        "explanation": "adj, 过去形"
+    }
+]

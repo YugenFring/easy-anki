@@ -1,0 +1,202 @@
+[
+    {
+        "id": 17658158260001,
+        "type": "sentence",
+        "original_content": "あのう、すみません。",
+        "romaji_content": "Anoo ~.",
+        "translated_content": "那个…打扰一下.",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260002,
+        "type": "sentence",
+        "original_content": "手袋が欲しいんですが。",
+        "romaji_content": "Tebukuro2 ga hoshiin2 desu ga.",
+        "translated_content": "手套想要(的)是.",
+        "explanation": "说明想买什么"
+    },
+    {
+        "id": 17658158260003,
+        "type": "sentence",
+        "original_content": "手袋はこちらです。",
+        "romaji_content": "Tebukuro wa kochira3 desu.",
+        "translated_content": "手套这边是.",
+        "explanation": "说明sth在哪"
+    },
+    {
+        "id": 17658158260004,
+        "type": "sentence",
+        "original_content": "これ、あったかそう。",
+        "romaji_content": "Kore, attaka3-soo.",
+        "translated_content": "这(手套), 暖和的看着.",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260005,
+        "type": "sentence",
+        "original_content": "これ、いくらですか。",
+        "romaji_content": "Kore, ikura1 desu ka.",
+        "translated_content": "这(手套), 多少钱是.",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260006,
+        "type": "sentence",
+        "original_content": "1,900円です。",
+        "romaji_content": "Sen-kyuuhayku-en desu.",
+        "translated_content": "1900 日元.",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260007,
+        "type": "sentence",
+        "original_content": "カードは使えますか。",
+        "romaji_content": "Kaado2 wa tsukaemasu ka.",
+        "translated_content": "信用卡可以用吗?",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260008,
+        "type": "sentence",
+        "original_content": "はい、使えます。",
+        "romaji_content": "Hai, tsukaemasu.",
+        "translated_content": "嗯, 可以使用",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260009,
+        "type": "sentence",
+        "original_content": "あのう、すみません。北海道のお土産が欲しいんですが。",
+        "romaji_content": "Ano, ~. Hokkaidoo3 no omiyage4 ga hoshiin2 desu ga.",
+        "translated_content": "嗯…打扰一下. (我)北海道的纪念品想买(的)是.",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260010,
+        "type": "sentence",
+        "original_content": "そうですか。このお菓子はいかがですか。",
+        "romaji_content": "Soo desu ka. Kono okashi2 wa ikaga2 desu ka.",
+        "translated_content": "这样啊. 这(种)甜点点心如何是呢?",
+        "explanation": ""
+    },
+    {
+        "id": 17658158260011,
+        "type": "word",
+        "original_content": "あのう",
+        "romaji_content": "Anoo",
+        "translated_content": "那个...",
+        "explanation": "interj"
+    },
+    {
+        "id": 17658158260012,
+        "type": "word",
+        "original_content": "手袋",
+        "romaji_content": "Tebukuro2",
+        "translated_content": "手套",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260013,
+        "type": "word",
+        "original_content": "欲しい",
+        "romaji_content": "hoshiin2",
+        "translated_content": "想要的",
+        "explanation": "adj"
+    },
+    {
+        "id": 17658158260014,
+        "type": "word",
+        "original_content": "こちら",
+        "romaji_content": "kochira3",
+        "translated_content": "这边, 这里",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260015,
+        "type": "word",
+        "original_content": "あったかい",
+        "romaji_content": "attakai",
+        "translated_content": "暖和的",
+        "explanation": "adj, 假名形"
+    },
+    {
+        "id": 17658158260016,
+        "type": "word",
+        "original_content": "暖かい",
+        "romaji_content": "attakai",
+        "translated_content": "暖和的",
+        "explanation": "adj, 字形"
+    },
+    {
+        "id": 17658158260017,
+        "type": "word",
+        "original_content": "あったかそう",
+        "romaji_content": "attaka3-soo",
+        "translated_content": "似乎暖和的",
+        "explanation": "adj"
+    },
+    {
+        "id": 17658158260018,
+        "type": "word",
+        "original_content": "いくら",
+        "romaji_content": "ikura1",
+        "translated_content": "多少钱",
+        "explanation": "adv"
+    },
+    {
+        "id": 17658158260019,
+        "type": "word",
+        "original_content": "カード",
+        "romaji_content": "Kaado2",
+        "translated_content": "信用卡",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260020,
+        "type": "word",
+        "original_content": "お土産",
+        "romaji_content": "omiyage4",
+        "translated_content": "纪念品",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260021,
+        "type": "word",
+        "original_content": "お菓子",
+        "romaji_content": "okashi2",
+        "translated_content": "甜点点心",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260022,
+        "type": "word",
+        "original_content": "風呂敷",
+        "romaji_content": "Furoshiki4",
+        "translated_content": "包袱皮",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260023,
+        "type": "word",
+        "original_content": "傘",
+        "romaji_content": "Kasa1",
+        "translated_content": "雨伞",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260024,
+        "type": "word",
+        "original_content": "電池",
+        "romaji_content": "Denchi1",
+        "translated_content": "电池",
+        "explanation": "n"
+    },
+    {
+        "id": 17658158260025,
+        "type": "word",
+        "original_content": "いかが",
+        "romaji_content": "ikaga2",
+        "translated_content": "如何",
+        "explanation": "adv, 礼貌形"
+    }
+]
