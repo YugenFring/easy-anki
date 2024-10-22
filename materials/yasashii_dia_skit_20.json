@@ -1,0 +1,306 @@
+[
+    {
+        "id": 10880846830001,
+        "type": "sentence",
+        "original_content": "おすすめは何ですか。",
+        "romaji_content": "Osusume1 wa nan1 desu ka.",
+        "translated_content": "(您这儿的)推荐菜什么是.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830002,
+        "type": "sentence",
+        "original_content": "このスペシャル海鮮丼がおすすめだよ！",
+        "romaji_content": "Kono supesharu-kaisen2-don1 ga osusume da yo!",
+        "translated_content": "这个特色的海鲜盖饭推荐菜是哦.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830003,
+        "type": "sentence",
+        "original_content": "イクラとウニがたっぷり入ってるよ。",
+        "romaji_content": "Ikura to uni1 ga tappuri3 haitteru yo.",
+        "translated_content": "鲑鱼子和海胆大量充足地包含哦.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830004,
+        "type": "sentence",
+        "original_content": "じゃあ、それください。",
+        "romaji_content": "Jaa, sore2 kudasai.",
+        "translated_content": "那, 那个请(给我).",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830005,
+        "type": "sentence",
+        "original_content": "私も。あ、わさびは入れないでください。",
+        "romaji_content": "Watashi1 mo. A, wasabi wa irenaide kudasai.",
+        "translated_content": "我也是. 啊, 山葵请放入不要请.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830006,
+        "type": "sentence",
+        "original_content": "わさび抜きね。そちらは？",
+        "romaji_content": "Wasabi nuki1 ne. Sochira3 wa?",
+        "translated_content": "山葵不要(名词)哦. 那您呢?",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830007,
+        "type": "sentence",
+        "original_content": "私はわさびをたくさん入れてください。",
+        "romaji_content": "Watashi wa wasabi1 o takusan irete kudasai.",
+        "translated_content": "我啊山葵大量放入请.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830008,
+        "type": "sentence",
+        "original_content": "オレンジジュース１つ。氷は入れないでください。",
+        "romaji_content": "Orenji-juusu hitotsu2. Koori3 wa irenaide kudasai.",
+        "translated_content": "橙汁一杯. 冰块请不要放.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830009,
+        "type": "sentence",
+        "original_content": "かしこまりました。",
+        "romaji_content": "Kashikomarimashita.",
+        "translated_content": "好的.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830010,
+        "type": "sentence",
+        "original_content": "ドレッシングはかけないでください。",
+        "romaji_content": "Doresshingu4 wa kakenai-de kudasai.",
+        "translated_content": "调味汁(dressing) 请不要倒入.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830011,
+        "type": "sentence",
+        "original_content": "唐辛子は使わないでください。",
+        "romaji_content": "Toogarashi3 wa tsukawanai-de kudasai.",
+        "translated_content": "辣椒请不要使用.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830012,
+        "type": "sentence",
+        "original_content": "ねぎは入れないでください。",
+        "romaji_content": "Negi1 wa irenai-de kudasai.",
+        "translated_content": "大葱请不要放入.",
+        "explanation": ""
+    },
+    {
+        "id": 10880846830013,
+        "type": "word",
+        "original_content": "スペシャル",
+        "romaji_content": "supesharu",
+        "translated_content": "特色的.",
+        "explanation": "adj"
+    },
+    {
+        "id": 10880846830014,
+        "type": "word",
+        "original_content": "海鮮",
+        "romaji_content": "kaisen2",
+        "translated_content": "鲜.",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830015,
+        "type": "word",
+        "original_content": "丼",
+        "romaji_content": "don1",
+        "translated_content": "盖饭.",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830016,
+        "type": "word",
+        "original_content": "イクラ",
+        "romaji_content": "Ikura",
+        "translated_content": "鲑鱼子",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830017,
+        "type": "word",
+        "original_content": "ウニ",
+        "romaji_content": "uni1",
+        "translated_content": "海胆",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830018,
+        "type": "word",
+        "original_content": "たっぷり",
+        "romaji_content": "tappuri3",
+        "translated_content": "大量充足",
+        "explanation": "adv"
+    },
+    {
+        "id": 10880846830019,
+        "type": "word",
+        "original_content": "入る",
+        "romaji_content": "hairu1",
+        "translated_content": "包含",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 10880846830020,
+        "type": "word",
+        "original_content": "入る",
+        "romaji_content": "hairu1",
+        "translated_content": "包含",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 10880846830021,
+        "type": "word",
+        "original_content": "入って",
+        "romaji_content": "haitteru1",
+        "translated_content": "'入る'的te形",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 10880846830022,
+        "type": "word",
+        "original_content": "じゃあ",
+        "romaji_content": "Jaa",
+        "translated_content": "那",
+        "explanation": "conjunct"
+    },
+    {
+        "id": 10880846830023,
+        "type": "word",
+        "original_content": "それ",
+        "romaji_content": "sore2",
+        "translated_content": "那个",
+        "explanation": "pron"
+    },
+    {
+        "id": 10880846830024,
+        "type": "word",
+        "original_content": "わさび",
+        "romaji_content": "wasabi",
+        "translated_content": "山葵",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830026,
+        "type": "word",
+        "original_content": "入れる",
+        "romaji_content": "ireru3",
+        "translated_content": "放入",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 10880846830027,
+        "type": "word",
+        "original_content": "入れない",
+        "romaji_content": "irenaide3",
+        "translated_content": "'入れる'的nai形",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 10880846830028,
+        "type": "word",
+        "original_content": "オレンジ",
+        "romaji_content": "Orenji",
+        "translated_content": "橙",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830029,
+        "type": "word",
+        "original_content": "ジュース",
+        "romaji_content": "juusu",
+        "translated_content": "juice",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830030,
+        "type": "word",
+        "original_content": "１つ",
+        "romaji_content": "hitotsu2",
+        "translated_content": "1杯",
+        "explanation": "count"
+    },
+    {
+        "id": 10880846830031,
+        "type": "word",
+        "original_content": "氷",
+        "romaji_content": "Koori3",
+        "translated_content": "冰块",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830032,
+        "type": "word",
+        "original_content": "かしこまる",
+        "romaji_content": "kashikomaru4",
+        "translated_content": "遵从, 遵守, 谦逊",
+        "explanation": "godan intransitive verb"
+    },
+    {
+        "id": 10880846830033,
+        "type": "word",
+        "original_content": "ドレッシング",
+        "romaji_content": "Doresshingu4",
+        "translated_content": "调味汁(dressing)",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830034,
+        "type": "word",
+        "original_content": "かける",
+        "romaji_content": "kakeru2",
+        "translated_content": "把液体倒入, 撒在, 溅, 洒在",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 10880846830035,
+        "type": "word",
+        "original_content": "かけない",
+        "romaji_content": "kakenai",
+        "translated_content": "'かける'的nai形",
+        "explanation": "ichidan transitive verb"
+    },
+    {
+        "id": 10880846830036,
+        "type": "word",
+        "original_content": "唐辛子",
+        "romaji_content": "Toogarashi3",
+        "translated_content": "辣椒",
+        "explanation": "n"
+    },
+    {
+        "id": 10880846830037,
+        "type": "word",
+        "original_content": "使う",
+        "romaji_content": "Toogarashi3",
+        "translated_content": "使用, 利用",
+        "explanation": "godan tansitive verb"
+    },
+    {
+        "id": 10880846830038,
+        "type": "word",
+        "original_content": "使わない",
+        "romaji_content": "tsukawanai",
+        "translated_content": "使う'的te形",
+        "explanation": "godan tansitive verb"
+    },
+    {
+        "id": 10880846830039,
+        "type": "word",
+        "original_content": "ねぎ",
+        "romaji_content": "Negi1",
+        "translated_content": "大葱",
+        "explanation": "Negi1"
+    }
+]
